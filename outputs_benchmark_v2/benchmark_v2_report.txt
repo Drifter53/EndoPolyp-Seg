@@ -1,0 +1,121 @@
+EndoPolyp-Seg Benchmark V2 Report
+========================================================================
+GPU：NVIDIA GeForce GTX 1060 6GB
+PyTorch：2.6.0+cu124
+CUDA：12.4
+Batch Size：4
+Input Size：256x256
+Precision：FP32
+Test samples：150
+Model-only warmup：20
+Model-only repeats：100
+E2E warmup batches/model：3
+
+Timing methodology
+------------------------------------------------------------------------
+1. GPU model-only：先将真实测试 batch 传入 GPU 并完成归一化，再测纯模型 forward；H2D 和 normalization 不计入该项。
+2. E2E：每个模型先独立预热，再重新遍历完整 test split；计时包括 DataLoader next、图像 H2D、GPU normalization、GPU forward 和 CUDA synchronize。
+3. 正式遍历的第一个 batch 单独记录，不纳入稳态 mean/median/P95；但仍参与完整 test split 的 Dice/IoU。
+4. loader_wait 包括 Dataset 的磁盘读取、图像解码和 CPU 预处理；这些操作在当前 Dataset 的 __getitem__ 内执行，无法再无侵入地拆分。
+5. masks 留在 CPU；mask H2D 和 Dice/IoU 计算不计入推理耗时。
+6. FLOPs 按 2×MACs 估算；不同工具的 FLOPs 统计口径可能不同。
+
+------------------------------------------------------------------------
+Model：Original U-Net
+Checkpoint：outputs\best_unet.pth
+Parameters：31.032 M
+Checkpoint size：355.19 MB
+MACs：54.610 G/image
+FLOPs：109.220 G/image
+
+GPU model-only (ms/batch)
+Mean=88.850, Median=88.663, P95=90.344, Min=86.952, Max=91.103, Std=0.862
+Throughput=45.02 images/s
+
+End-to-end steady state (ms/batch)
+Iterator init (separate)=0.131
+First batch after warmup (separate)=103.702
+Mean=252.107, Median=103.071, P95=112.177, Min=99.425, Max=5594.897, Std=890.472
+Steady throughput=15.65 images/s
+Steady amortized latency=63.890 ms/image
+Full pass throughput (includes first formal batch)=15.90 images/s
+
+Steady component means (ms/batch)
+DataLoader + CPU preprocessing=13.173
+H2D=1.841
+GPU normalization=0.001
+GPU forward=236.542
+
+Test metrics
+Samples=150
+Dice=0.8049
+IoU=0.7184
+Peak allocated=4.786 GiB
+Peak reserved=4.926 GiB
+
+------------------------------------------------------------------------
+Model：ResNet34-U-Net
+Checkpoint：outputs_resnet34\best_unet.pth
+Parameters：24.450 M
+Checkpoint size：280.08 MB
+MACs：10.393 G/image
+FLOPs：20.786 G/image
+
+GPU model-only (ms/batch)
+Mean=24.559, Median=24.552, P95=24.681, Min=24.402, Max=25.201, Std=0.091
+Throughput=162.88 images/s
+
+End-to-end steady state (ms/batch)
+Iterator init (separate)=0.087
+First batch after warmup (separate)=37.252
+Mean=73.346, Median=38.475, P95=49.942, Min=35.422, Max=1299.259, Std=204.350
+Steady throughput=53.80 images/s
+Steady amortized latency=18.588 ms/image
+Full pass throughput (includes first formal batch)=54.52 images/s
+
+Steady component means (ms/batch)
+DataLoader + CPU preprocessing=12.557
+H2D=0.655
+GPU normalization=1.051
+GPU forward=58.531
+
+Test metrics
+Samples=150
+Dice=0.8803
+IoU=0.8123
+Peak allocated=4.453 GiB
+Peak reserved=4.475 GiB
+
+------------------------------------------------------------------------
+Model：Attention U-Net
+Checkpoint：outputs_attention\best_attention_unet.pth
+Parameters：31.382 M
+Checkpoint size：359.25 MB
+MACs：55.719 G/image
+FLOPs：111.438 G/image
+
+GPU model-only (ms/batch)
+Mean=97.978, Median=97.868, P95=99.421, Min=96.507, Max=100.104, Std=0.824
+Throughput=40.83 images/s
+
+End-to-end steady state (ms/batch)
+Iterator init (separate)=0.099
+First batch after warmup (separate)=111.366
+Mean=116.589, Median=112.365, P95=119.539, Min=108.286, Max=253.461, Std=23.046
+Steady throughput=33.84 images/s
+Steady amortized latency=29.547 ms/image
+Full pass throughput (includes first formal batch)=33.90 images/s
+
+Steady component means (ms/batch)
+DataLoader + CPU preprocessing=12.873
+H2D=0.617
+GPU normalization=0.938
+GPU forward=101.614
+
+Test metrics
+Samples=150
+Dice=0.8164
+IoU=0.7261
+Peak allocated=1.596 GiB
+Peak reserved=1.893 GiB
+

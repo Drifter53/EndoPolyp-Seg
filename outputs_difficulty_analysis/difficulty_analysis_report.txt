@@ -1,0 +1,49 @@
+EndoPolyp-Seg Difficulty Analysis Report
+================================================================
+Fixed existing test split: 150 images.
+Mask: grayscale -> 256x256 INTER_NEAREST -> mask > 127.
+Images: 150
+V4 model-image rows: 450
+Models: Original U-Net, ResNet34-U-Net, Attention U-Net
+
+PRIMARY FEATURES
+Size: Ground Truth Mask foreground area ratio.
+Position: Ground Truth Mask centroid.
+Geometry: Ground Truth Mask bounding rectangle.
+JSON bounding boxes are auxiliary only.
+
+JSON BBOX DIAGNOSTICS
+Images with multiple boxes: 7
+Images with no valid bbox: 0
+Images with clipped bbox: 0
+
+SIZE GROUPS
+Empirical tertiles of Mask foreground area ratio.
+Q1=0.0853576660; Q2=0.1748301188
+Small <= Q1; Medium > Q1 and <= Q2; Large > Q2
+Counts: {'Small': 50, 'Medium': 50, 'Large': 50}
+size_group           model  image_count  mean_dice  mean_iou
+     Large Attention U-Net           50   0.795614  0.695041
+     Large  Original U-Net           50   0.798564  0.700992
+     Large  ResNet34-U-Net           50   0.893034  0.825684
+    Medium Attention U-Net           50   0.847032  0.765272
+    Medium  Original U-Net           50   0.839208  0.766387
+    Medium  ResNet34-U-Net           50   0.878676  0.815203
+     Small Attention U-Net           50   0.806686  0.718095
+     Small  Original U-Net           50   0.776782  0.687682
+     Small  ResNet34-U-Net           50   0.869131  0.796049
+
+POSITION GROUPS
+Based on normalized Mask centroid.
+Center: 0.25 <= cx < 0.75 and 0.25 <= cy < 0.75
+Peripheral: otherwise
+Counts: {'Center': 124, 'Peripheral': 26}
+position_group           model  image_count  mean_dice  mean_iou
+        Center Attention U-Net          124   0.817466  0.727679
+        Center  Original U-Net          124   0.822217  0.735848
+        Center  ResNet34-U-Net          124   0.884350  0.816797
+    Peripheral Attention U-Net           26   0.811569  0.718776
+    Peripheral  Original U-Net           26   0.722033  0.634918
+    Peripheral  ResNet34-U-Net           26   0.860872  0.790920
+
+Visual background types require human review.

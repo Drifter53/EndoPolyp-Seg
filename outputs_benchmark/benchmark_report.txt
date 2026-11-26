@@ -1,0 +1,89 @@
+EndoPolyp-Seg 三模型 Benchmark 报告
+====================================================================
+GPU：NVIDIA GeForce GTX 1060 6GB
+PyTorch：2.6.0+cu124
+CUDA：12.4
+输入尺寸：256x256
+Batch Size：4
+精度：FP32
+预热次数：20
+GPU 正式计时次数：100
+测试集图片数量：150
+
+计时口径说明：
+1. GPU 模型前向：使用真实测试图片，排除数据读取、CPU预处理和H2D传输。
+2. 端到端：包括DataLoader取数、CPU预处理、H2D传输、归一化和模型前向。
+3. FLOPs按2×MACs计算；THOP未安装或统计失败时会留空并写明原因。
+
+--------------------------------------------------------------------
+模型：Original U-Net
+Checkpoint：outputs\best_unet.pth
+参数量：31.032 M
+Checkpoint大小：355.19 MB
+MACs：54.610 G / image
+FLOPs：109.220 G / image
+
+GPU模型前向：
+平均延迟：89.374 ms / batch
+中位延迟：89.262 ms / batch
+P95延迟：90.975 ms / batch
+吞吐量：44.76 images/s
+
+真实测试集端到端：
+平均延迟：258.067 ms / batch
+中位延迟：114.418 ms / batch
+P95延迟：132.614 ms / batch
+吞吐量：15.30 images/s
+Test Dice：0.8049
+Test IoU：0.7184
+峰值Allocated显存：4.786 GiB
+峰值Reserved显存：4.926 GiB
+
+--------------------------------------------------------------------
+模型：ResNet34-U-Net
+Checkpoint：outputs_resnet34\best_unet.pth
+参数量：24.450 M
+Checkpoint大小：280.08 MB
+MACs：10.393 G / image
+FLOPs：20.786 G / image
+
+GPU模型前向：
+平均延迟：27.378 ms / batch
+中位延迟：27.442 ms / batch
+P95延迟：29.348 ms / batch
+吞吐量：146.10 images/s
+
+真实测试集端到端：
+平均延迟：73.903 ms / batch
+中位延迟：39.030 ms / batch
+P95延迟：53.086 ms / batch
+吞吐量：53.41 images/s
+Test Dice：0.8803
+Test IoU：0.8123
+峰值Allocated显存：4.453 GiB
+峰值Reserved显存：4.475 GiB
+
+--------------------------------------------------------------------
+模型：Attention U-Net
+Checkpoint：outputs_attention\best_attention_unet.pth
+参数量：31.382 M
+Checkpoint大小：359.25 MB
+MACs：55.719 G / image
+FLOPs：111.438 G / image
+
+GPU模型前向：
+平均延迟：99.557 ms / batch
+中位延迟：98.657 ms / batch
+P95延迟：106.961 ms / batch
+吞吐量：40.18 images/s
+
+真实测试集端到端：
+平均延迟：115.965 ms / batch
+中位延迟：111.469 ms / batch
+P95延迟：120.866 ms / batch
+吞吐量：34.04 images/s
+Test Dice：0.8164
+Test IoU：0.7261
+峰值Allocated显存：1.596 GiB
+峰值Reserved显存：1.895 GiB
+

@@ -1,0 +1,132 @@
+EndoPolyp-Seg Benchmark V4 (Batch=1) Report
+========================================================================
+GPU：NVIDIA GeForce GTX 1060 6GB
+PyTorch：2.6.0+cu124
+CUDA：12.4
+Batch Size：1
+Input Size：256x256
+Precision：FP32
+cuDNN benchmark：True
+Test samples：150
+cuDNN shape warmup：5 runs per shape
+Model-only warmup：20
+Model-only repeats：100
+E2E warmup batches/model：3
+
+Timing methodology
+------------------------------------------------------------------------
+1. 所有模型沿用 V2 的结构、checkpoint、测试集和预处理配置。
+2. cuDNN benchmark=True；正式测速前预热测试集中实际出现的 batch shape。
+3. GPU model-only：H2D 和 normalization 在计时区间之外，只统计模型 forward。
+4. E2E：每个 batch 统计 DataLoader next、图像 H2D、GPU normalization、GPU forward 和 CUDA synchronize。
+5. 稳态统计只包含完整 Batch=1 且不是正式遍历首批的记录；首批单独报告，若测试集不能整除 Batch Size，则不完整尾批另行报告。
+6. 所有测试图片（包括可能存在的尾批）均参与逐图 Dice / IoU；mask 保留在 CPU，指标计算不计入推理耗时。
+7. 完整遍历吞吐量包含首批和全部测试图像；稳态吞吐量排除首批及不完整尾批。
+8. FLOPs 按 2×MACs 估算；不同工具的 FLOPs 统计口径可能不同。
+9. Batch=1 时每个 batch 对应一张图像；本次 150 张测试图像不会产生不完整尾批。
+
+------------------------------------------------------------------------
+Model：Original U-Net
+Checkpoint：outputs\best_unet.pth
+Parameters：31.032 M
+Checkpoint size：355.19 MB
+MACs：54.610 G/image
+FLOPs：109.220 G/image
+
+GPU model-only (Batch=1; ms/batch = ms/image)
+Mean=24.199, Median=24.140, P95=24.861, Min=23.561, Max=25.610, Std=0.384
+Mean single-image GPU latency=24.199 ms/image
+Throughput=41.32 images/s
+
+End-to-end timing
+First batch=30.407 ms
+Tail partial batch: none
+Steady Batch=1 batches (excluding first)=149, images=149
+Steady Mean=30.338, Median=29.967, P95=33.305, Min=27.533, Max=42.540, Std=1.865 ms/batch
+Mean single-image E2E latency=30.338 ms/image
+Steady throughput=32.96 images/s
+Full-pass throughput=32.96 images/s
+
+Steady component means (ms/batch; Batch=1 so equals ms/image)
+DataLoader + CPU preprocessing=4.886
+H2D=1.004
+GPU normalization=0.002
+GPU forward=24.090
+
+Test metrics
+Samples=150
+Dice=0.8049
+IoU=0.7184
+Peak allocated=0.219 GiB
+Peak reserved=0.262 GiB
+
+------------------------------------------------------------------------
+Model：ResNet34-U-Net
+Checkpoint：outputs_resnet34\best_unet.pth
+Parameters：24.450 M
+Checkpoint size：280.08 MB
+MACs：10.393 G/image
+FLOPs：20.786 G/image
+
+GPU model-only (Batch=1; ms/batch = ms/image)
+Mean=10.603, Median=10.518, P95=11.686, Min=9.710, Max=12.200, Std=0.544
+Mean single-image GPU latency=10.603 ms/image
+Throughput=94.31 images/s
+
+End-to-end timing
+First batch=18.868 ms
+Tail partial batch: none
+Steady Batch=1 batches (excluding first)=149, images=149
+Steady Mean=16.755, Median=16.284, P95=19.710, Min=13.924, Max=28.210, Std=2.234 ms/batch
+Mean single-image E2E latency=16.755 ms/image
+Steady throughput=59.68 images/s
+Full-pass throughput=59.63 images/s
+
+Steady component means (ms/batch; Batch=1 so equals ms/image)
+DataLoader + CPU preprocessing=3.682
+H2D=0.309
+GPU normalization=1.021
+GPU forward=11.428
+
+Test metrics
+Samples=150
+Dice=0.8803
+IoU=0.8123
+Peak allocated=0.126 GiB
+Peak reserved=0.158 GiB
+
+------------------------------------------------------------------------
+Model：Attention U-Net
+Checkpoint：outputs_attention\best_attention_unet.pth
+Parameters：31.382 M
+Checkpoint size：359.25 MB
+MACs：55.719 G/image
+FLOPs：111.438 G/image
+
+GPU model-only (Batch=1; ms/batch = ms/image)
+Mean=26.846, Median=26.828, P95=27.612, Min=26.071, Max=28.269, Std=0.425
+Mean single-image GPU latency=26.846 ms/image
+Throughput=37.25 images/s
+
+End-to-end timing
+First batch=30.523 ms
+Tail partial batch: none
+Steady Batch=1 batches (excluding first)=149, images=149
+Steady Mean=32.158, Median=31.909, P95=34.975, Min=30.117, Max=40.713, Std=1.731 ms/batch
+Mean single-image E2E latency=32.158 ms/image
+Steady throughput=31.10 images/s
+Full-pass throughput=31.11 images/s
+
+Steady component means (ms/batch; Batch=1 so equals ms/image)
+DataLoader + CPU preprocessing=3.853
+H2D=0.319
+GPU normalization=0.948
+GPU forward=26.686
+
+Test metrics
+Samples=150
+Dice=0.8164
+IoU=0.7261
+Peak allocated=0.330 GiB
+Peak reserved=0.354 GiB
+

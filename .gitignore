@@ -1,0 +1,27 @@
+# Model checkpoints stay on the local computer.
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Keep split files; obtain the original dataset separately.
+/data/Kvasir-SEG/
+
+# Historical experiments outside the main comparison.
+/outputs_352/
+/outputs/old_run_50epoch/
+
+# Python environments and generated caches.
+__pycache__/
+*.py[cod]
+.venv*/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local configuration and credentials.
+.env
+.env.*
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

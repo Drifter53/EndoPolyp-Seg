@@ -1,0 +1,11 @@
+Original U-Net Test Report (FULL TEST SET)
+Checkpoint: C:\Users\23180\Desktop\PythonProject\CV-Internship\EndoPolyp-Seg\outputs\best_unet.pth
+Device: cuda
+Input Size: 256x256
+Batch Size: 4
+ImageNet Normalization: False
+Test Samples: 150
+Test Loss: 0.413240
+Test Dice: 0.804851
+Test IoU: 0.718354
+First Visualizations: 10

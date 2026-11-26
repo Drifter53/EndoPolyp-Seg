@@ -1,0 +1,451 @@
+﻿model,image_name,mask_name,batch_index,batch_size,dice,iou,size_group,position_group
+Original U-Net,cju5jz5fff8c50871hbe6108f.jpg,cju5jz5fff8c50871hbe6108f.jpg,1,1,0.969846785068512,0.9414587616920471,Medium,Center
+Original U-Net,cju8doa16u5gh0818w1ywda3q.jpg,cju8doa16u5gh0818w1ywda3q.jpg,2,1,0.6952614784240723,0.5328741669654846,Large,Center
+Original U-Net,cju7ea4om2l910801bohqjccy.jpg,cju7ea4om2l910801bohqjccy.jpg,3,1,0.9656215906143188,0.9335283041000366,Small,Peripheral
+Original U-Net,cju2wve9v7esz0878mxsdcy04.jpg,cju2wve9v7esz0878mxsdcy04.jpg,4,1,0.9402031898498535,0.887154221534729,Small,Center
+Original U-Net,ck2bxiswtxuw80838qkisqjwz.jpg,ck2bxiswtxuw80838qkisqjwz.jpg,5,1,0.4604358375072479,0.2990689277648926,Large,Center
+Original U-Net,cju2yb31a8e8u0878wdashg7o.jpg,cju2yb31a8e8u0878wdashg7o.jpg,6,1,0.9777758121490479,0.9565179347991943,Medium,Center
+Original U-Net,cju2lberzkdzm09938cl40pog.jpg,cju2lberzkdzm09938cl40pog.jpg,7,1,0.8814094066619873,0.7879642844200134,Large,Center
+Original U-Net,cju42qet0lsq90871e50xbnuv.jpg,cju42qet0lsq90871e50xbnuv.jpg,8,1,0.9012250304222107,0.8202089071273804,Small,Center
+Original U-Net,cju6z7e4bwgdd0987ogkzq9kt.jpg,cju6z7e4bwgdd0987ogkzq9kt.jpg,9,1,0.6672338247299194,0.5006383657455444,Medium,Center
+Original U-Net,cju3umoh1geet0817cmpef5am.jpg,cju3umoh1geet0817cmpef5am.jpg,10,1,0.9148588180541992,0.8430781960487366,Medium,Peripheral
+Original U-Net,cju5ca9hcatkc0801jzwe7tfx.jpg,cju5ca9hcatkc0801jzwe7tfx.jpg,11,1,0.6101050972938538,0.43895772099494934,Medium,Center
+Original U-Net,cju77bvg0yv4r0987yh60xmjo.jpg,cju77bvg0yv4r0987yh60xmjo.jpg,12,1,0.9710361361503601,0.9437028169631958,Small,Center
+Original U-Net,cju2sevf53lkx08558h5bpaig.jpg,cju2sevf53lkx08558h5bpaig.jpg,13,1,0.8743435144424438,0.7767409086227417,Large,Center
+Original U-Net,cju30ywtc0oar0835bp2en7ec.jpg,cju30ywtc0oar0835bp2en7ec.jpg,14,1,0.9466701745986938,0.8987405300140381,Medium,Center
+Original U-Net,cju7d8m3b2e210755l8fj1yph.jpg,cju7d8m3b2e210755l8fj1yph.jpg,15,1,0.17226804792881012,0.09425235539674759,Large,Center
+Original U-Net,cju5vi4nxlc530817uoqm2m7a.jpg,cju5vi4nxlc530817uoqm2m7a.jpg,16,1,0.9885517954826355,0.9773627519607544,Large,Center
+Original U-Net,cju2saez63gxl08559ucjq3kt.jpg,cju2saez63gxl08559ucjq3kt.jpg,17,1,0.9622311592102051,0.9272114038467407,Medium,Center
+Original U-Net,cju1cdxvz48hw0801i0fjwcnk.jpg,cju1cdxvz48hw0801i0fjwcnk.jpg,18,1,0.5498841404914856,0.37920016050338745,Small,Center
+Original U-Net,cju2yi9tz8vky0801yqip0xyl.jpg,cju2yi9tz8vky0801yqip0xyl.jpg,19,1,0.5493391752243042,0.378682017326355,Large,Center
+Original U-Net,cju3v3ac9gyz30755hfqwyp1i.jpg,cju3v3ac9gyz30755hfqwyp1i.jpg,20,1,0.942075788974762,0.8904945850372314,Small,Center
+Original U-Net,cju310f6val1v0855xo8tc3gu.jpg,cju310f6val1v0855xo8tc3gu.jpg,21,1,0.7795634269714355,0.6387578248977661,Large,Center
+Original U-Net,cju84aoa3ktwn0755pfl4gfwd.jpg,cju84aoa3ktwn0755pfl4gfwd.jpg,22,1,0.9670997262001038,0.9362953901290894,Large,Center
+Original U-Net,cjyzlw7f9faqr070129au64sq.jpg,cjyzlw7f9faqr070129au64sq.jpg,23,1,0.9348042607307434,0.8775891661643982,Medium,Center
+Original U-Net,cju85hguellg50818kwu3s8d1.jpg,cju85hguellg50818kwu3s8d1.jpg,24,1,0.8584230542182922,0.7519625425338745,Large,Center
+Original U-Net,cju2tqfgw4oat0799rn0g5b2z.jpg,cju2tqfgw4oat0799rn0g5b2z.jpg,25,1,0.9774436354637146,0.9558823704719543,Medium,Center
+Original U-Net,cju1b75x63ddl0799sdp0i2j3.jpg,cju1b75x63ddl0799sdp0i2j3.jpg,26,1,0.9501581192016602,0.9050488471984863,Small,Center
+Original U-Net,cju7fen322ou10817ziqkob4k.jpg,cju7fen322ou10817ziqkob4k.jpg,27,1,0.8639075756072998,0.7604202032089233,Medium,Center
+Original U-Net,cju7f5ghb2r5s0801chwkxxh9.jpg,cju7f5ghb2r5s0801chwkxxh9.jpg,28,1,0.9503467082977295,0.9053910970687866,Large,Center
+Original U-Net,cju8828oxnool0801qno9luhr.jpg,cju8828oxnool0801qno9luhr.jpg,29,1,0.9072000980377197,0.8301612734794617,Large,Center
+Original U-Net,cju324q101fhe08350wae9cif.jpg,cju324q101fhe08350wae9cif.jpg,30,1,0.9592256546020508,0.9216461777687073,Medium,Center
+Original U-Net,cju7avvi51iox0817ym55y6tt.jpg,cju7avvi51iox0817ym55y6tt.jpg,31,1,0.7556710243225098,0.6072919964790344,Large,Center
+Original U-Net,cju2syxa93yw40799x2iuwabz.jpg,cju2syxa93yw40799x2iuwabz.jpg,32,1,0.9191489219665527,0.8503937125205994,Small,Center
+Original U-Net,cju5ufn3skquf0818dhapnhba.jpg,cju5ufn3skquf0818dhapnhba.jpg,33,1,0.5570470094680786,0.38604649901390076,Small,Center
+Original U-Net,cju7b10ce1mnm08011c5bwyr4.jpg,cju7b10ce1mnm08011c5bwyr4.jpg,34,1,0.7502230405807495,0.600285530090332,Medium,Center
+Original U-Net,cju6z1bzbwfq50817b2alatvr.jpg,cju6z1bzbwfq50817b2alatvr.jpg,35,1,0.3614872097969055,0.2206191122531891,Large,Center
+Original U-Net,cju2yo1j1v0qz09934o0e683p.jpg,cju2yo1j1v0qz09934o0e683p.jpg,36,1,0.8260679841041565,0.703676164150238,Large,Peripheral
+Original U-Net,cju35i2e63uxr0835h7zgkg9k.jpg,cju35i2e63uxr0835h7zgkg9k.jpg,37,1,0.9482088685035706,0.9015182852745056,Medium,Center
+Original U-Net,cju42wamblrqn098798r2yyok.jpg,cju42wamblrqn098798r2yyok.jpg,38,1,0.9812357425689697,0.9631627202033997,Large,Center
+Original U-Net,cju2okvco06xc0799kxe5n1qh.jpg,cju2okvco06xc0799kxe5n1qh.jpg,39,1,0.8971111178398132,0.8134192824363708,Large,Center
+Original U-Net,ck2bxlujamu330725szlc2jdu.jpg,ck2bxlujamu330725szlc2jdu.jpg,40,1,0.39192694425582886,0.24372459948062897,Small,Peripheral
+Original U-Net,cju7dizi82h2i0755doucgnt3.jpg,cju7dizi82h2i0755doucgnt3.jpg,41,1,0.44329050183296204,0.2847612500190735,Small,Center
+Original U-Net,cju5hwonqedw10801vsd3w6kk.jpg,cju5hwonqedw10801vsd3w6kk.jpg,42,1,0.9729072451591492,0.9472438097000122,Medium,Center
+Original U-Net,cju2p4ddkmzxj0993p94o62av.jpg,cju2p4ddkmzxj0993p94o62av.jpg,43,1,0.8453861474990845,0.7321808338165283,Small,Center
+Original U-Net,cju8aqq8uqmoq0987hphto9gg.jpg,cju8aqq8uqmoq0987hphto9gg.jpg,44,1,0.896222710609436,0.8119597434997559,Large,Center
+Original U-Net,cju6uzxk0v83p0801rcwnexdu.jpg,cju6uzxk0v83p0801rcwnexdu.jpg,45,1,0.8859776854515076,0.7952961921691895,Large,Center
+Original U-Net,cju1cu1u2474n0878tt7v4tdr.jpg,cju1cu1u2474n0878tt7v4tdr.jpg,46,1,0.8720188140869141,0.7730792164802551,Small,Center
+Original U-Net,cju76o55nymqd0871h31sph9w.jpg,cju76o55nymqd0871h31sph9w.jpg,47,1,0.10791274160146713,0.05703370273113251,Small,Peripheral
+Original U-Net,cju7arvfe1ldu0850erdmphgj.jpg,cju7arvfe1ldu0850erdmphgj.jpg,48,1,0.9776477217674255,0.9562728404998779,Medium,Center
+Original U-Net,cju8djdqztu6408506pzhlo18.jpg,cju8djdqztu6408506pzhlo18.jpg,49,1,0.9017562866210938,0.8210893869400024,Medium,Center
+Original U-Net,cju2yg5ht8i4p087800js8hp4.jpg,cju2yg5ht8i4p087800js8hp4.jpg,50,1,0.9274331331253052,0.864685595035553,Medium,Center
+Original U-Net,cju7ae7bq1f820987toc8si1d.jpg,cju7ae7bq1f820987toc8si1d.jpg,51,1,0.9227522015571594,0.8565830588340759,Small,Center
+Original U-Net,cju2s2527pfyr0993l3h1149a.jpg,cju2s2527pfyr0993l3h1149a.jpg,52,1,0.9574640989303589,0.9183991551399231,Small,Peripheral
+Original U-Net,cju34c1xfyz920993itxkkfad.jpg,cju34c1xfyz920993itxkkfad.jpg,53,1,0.8218916654586792,0.6976367831230164,Large,Center
+Original U-Net,cju353d1eda8c07992afde611.jpg,cju353d1eda8c07992afde611.jpg,54,1,0.9675225019454956,0.9370882511138916,Medium,Peripheral
+Original U-Net,cju2oi8sq0i2y0801mektzvw8.jpg,cju2oi8sq0i2y0801mektzvw8.jpg,55,1,0.6757903099060059,0.510334849357605,Large,Center
+Original U-Net,cju34uhepd3dd0799hs8782ad.jpg,cju34uhepd3dd0799hs8782ad.jpg,56,1,0.28343838453292847,0.16511984169483185,Small,Center
+Original U-Net,cju87nkyrnb970801q84m47yt.jpg,cju87nkyrnb970801q84m47yt.jpg,57,1,0.05266088619828224,0.027042483910918236,Medium,Peripheral
+Original U-Net,cju6xlygpw7bs0818n691jsq4.jpg,cju6xlygpw7bs0818n691jsq4.jpg,58,1,0.897159218788147,0.8134983777999878,Large,Center
+Original U-Net,cju42dwedlmk60871jbgu4ehi.jpg,cju42dwedlmk60871jbgu4ehi.jpg,59,1,0.9761733412742615,0.9534556865692139,Medium,Center
+Original U-Net,cju8c9akjsdjj0850s67uzlxq.jpg,cju8c9akjsdjj0850s67uzlxq.jpg,60,1,0.9764251112937927,0.9539361596107483,Medium,Center
+Original U-Net,cju8c2rqzs5t80850d0zky5dy.jpg,cju8c2rqzs5t80850d0zky5dy.jpg,61,1,0.8598717451095581,0.7541886568069458,Large,Center
+Original U-Net,cju1ffnjn6ctm08015perkg37.jpg,cju1ffnjn6ctm08015perkg37.jpg,62,1,0.5394026637077332,0.36930277943611145,Large,Peripheral
+Original U-Net,cju88z8bson4h0871nnd7fdxo.jpg,cju88z8bson4h0871nnd7fdxo.jpg,63,1,0.9737217426300049,0.9487892389297485,Medium,Center
+Original U-Net,cjyzk8qieoboa0848ogj51wwm.jpg,cjyzk8qieoboa0848ogj51wwm.jpg,64,1,0.7684498429298401,0.6239696145057678,Large,Center
+Original U-Net,cju88k75inzyb0850ccv5x3vk.jpg,cju88k75inzyb0850ccv5x3vk.jpg,65,1,0.8226950168609619,0.6987951993942261,Large,Peripheral
+Original U-Net,cju1dg44i4z3w0801nyz4p6zf.jpg,cju1dg44i4z3w0801nyz4p6zf.jpg,66,1,0.8303495049476624,0.7099125385284424,Small,Peripheral
+Original U-Net,cju2zpw4q9vzr0801p0lysjdl.jpg,cju2zpw4q9vzr0801p0lysjdl.jpg,67,1,0.9311255216598511,0.8711270689964294,Small,Center
+Original U-Net,cju7fbndk2sl608015ravktum.jpg,cju7fbndk2sl608015ravktum.jpg,68,1,0.9383114576339722,0.8837916254997253,Medium,Center
+Original U-Net,cju2tpfa5uyx408359datxqqj.jpg,cju2tpfa5uyx408359datxqqj.jpg,69,1,0.000966884195804596,0.00048367594718001783,Medium,Center
+Original U-Net,cju77re6fz5bb0817vp9redjg.jpg,cju77re6fz5bb0817vp9redjg.jpg,70,1,0.8794592618942261,0.7848525643348694,Medium,Center
+Original U-Net,cju1871y11d6r0799k6cw4yze.jpg,cju1871y11d6r0799k6cw4yze.jpg,71,1,0.9656790494918823,0.9336357116699219,Medium,Peripheral
+Original U-Net,cju1cqc7n4gpy0855jt246k68.jpg,cju1cqc7n4gpy0855jt246k68.jpg,72,1,0.9244649410247803,0.8595396280288696,Small,Peripheral
+Original U-Net,cju7cq6su27qv075574dir0r3.jpg,cju7cq6su27qv075574dir0r3.jpg,73,1,0.9024251103401184,0.8221991658210754,Medium,Center
+Original U-Net,cju2r6mt2om21099352pny5gw.jpg,cju2r6mt2om21099352pny5gw.jpg,74,1,0.9585795998573303,0.9204539656639099,Large,Center
+Original U-Net,cju5wkonqlrl409877y8zvnub.jpg,cju5wkonqlrl409877y8zvnub.jpg,75,1,0.8205630779266357,0.6957244277000427,Medium,Center
+Original U-Net,cju34ouumcznz07996gg1xq7v.jpg,cju34ouumcznz07996gg1xq7v.jpg,76,1,0.9777016639709473,0.9563761353492737,Large,Center
+Original U-Net,cju88t4fvokxf07558ymyh281.jpg,cju88t4fvokxf07558ymyh281.jpg,77,1,0.9042459726333618,0.8252271413803101,Small,Center
+Original U-Net,cju8apjewqrk00801k5d71gky.jpg,cju8apjewqrk00801k5d71gky.jpg,78,1,0.8617366552352905,0.7570626735687256,Medium,Peripheral
+Original U-Net,cju6vta3kvazg0817qbeppjtm.jpg,cju6vta3kvazg0817qbeppjtm.jpg,79,1,0.964974582195282,0.9323197603225708,Large,Center
+Original U-Net,cju6wuojavt740818b5qcv3iw.jpg,cju6wuojavt740818b5qcv3iw.jpg,80,1,0.908850371837616,0.832929253578186,Large,Center
+Original U-Net,cju85qefyln6v0850szeb9byi.jpg,cju85qefyln6v0850szeb9byi.jpg,81,1,0.6805504560470581,0.5157836079597473,Large,Center
+Original U-Net,cju2zxja9w1eh09933609ho9z.jpg,cju2zxja9w1eh09933609ho9z.jpg,82,1,0.9591676592826843,0.9215390682220459,Small,Center
+Original U-Net,cju5thdbrjp1108715xdfx356.jpg,cju5thdbrjp1108715xdfx356.jpg,83,1,0.7727624177932739,0.629676342010498,Small,Center
+Original U-Net,cju1dfeupuzlw0835gnxip369.jpg,cju1dfeupuzlw0835gnxip369.jpg,84,1,0.9154887795448303,0.8441487550735474,Small,Center
+Original U-Net,cju35fxqyzt5p0993vusm54qz.jpg,cju35fxqyzt5p0993vusm54qz.jpg,85,1,0.9287696480751038,0.867012083530426,Medium,Center
+Original U-Net,cju2hdr06v2bq0799mbm3bks1.jpg,cju2hdr06v2bq0799mbm3bks1.jpg,86,1,0.642956018447876,0.47379159927368164,Large,Peripheral
+Original U-Net,cju5i5oh2efg60987ez6cpf72.jpg,cju5i5oh2efg60987ez6cpf72.jpg,87,1,0.985079288482666,0.9705972671508789,Large,Center
+Original U-Net,cju42romflni20817etb9a0fl.jpg,cju42romflni20817etb9a0fl.jpg,88,1,0.6675512194633484,0.5009957551956177,Medium,Center
+Original U-Net,cju7dlk532dsh0871zvr6qz0r.jpg,cju7dlk532dsh0871zvr6qz0r.jpg,89,1,0.9066274166107178,0.8292026519775391,Large,Peripheral
+Original U-Net,cju1819curo000988pd5xcqme.jpg,cju1819curo000988pd5xcqme.jpg,90,1,0.7632513046264648,0.6171433925628662,Medium,Center
+Original U-Net,cju84ffdzkrjn08183jh1fxmb.jpg,cju84ffdzkrjn08183jh1fxmb.jpg,91,1,0.9198205471038818,0.8515441417694092,Small,Peripheral
+Original U-Net,cju2y8s56ymqr083541ggdsml.jpg,cju2y8s56ymqr083541ggdsml.jpg,92,1,0.9426147937774658,0.8914582133293152,Medium,Center
+Original U-Net,cju5ymyd8mmdc0801ry3by1xr.jpg,cju5ymyd8mmdc0801ry3by1xr.jpg,93,1,0.3824515640735626,0.23643901944160461,Small,Peripheral
+Original U-Net,cju33belnbyhm0878yxl42233.jpg,cju33belnbyhm0878yxl42233.jpg,94,1,0.9006121158599854,0.8191941976547241,Small,Center
+Original U-Net,cju887ftknop008177nnjt46y.jpg,cju887ftknop008177nnjt46y.jpg,95,1,0.9344369173049927,0.8769419193267822,Small,Center
+Original U-Net,cju34i3qvcyog0855qiejxx5w.jpg,cju34i3qvcyog0855qiejxx5w.jpg,96,1,0.5659286379814148,0.3946307599544525,Large,Center
+Original U-Net,cju1f5x1164xv08555654c24r.jpg,cju1f5x1164xv08555654c24r.jpg,97,1,0.8354050517082214,0.7173352837562561,Medium,Peripheral
+Original U-Net,cju35k2fr3vc50988c85qkrwg.jpg,cju35k2fr3vc50988c85qkrwg.jpg,98,1,0.896945595741272,0.813147246837616,Small,Center
+Original U-Net,cju1euuc65wm00799m4sjdnnn.jpg,cju1euuc65wm00799m4sjdnnn.jpg,99,1,0.9644792079925537,0.9313953518867493,Small,Center
+Original U-Net,cjz14qsk2wci60794un9ozwmw.jpg,cjz14qsk2wci60794un9ozwmw.jpg,100,1,0.9779564738273621,0.9568638205528259,Medium,Center
+Original U-Net,cju32srle1xfq083575i3fl75.jpg,cju32srle1xfq083575i3fl75.jpg,101,1,0.9548065066337585,0.9135212898254395,Small,Center
+Original U-Net,cju7ey10f2rvf0871bwbi9x82.jpg,cju7ey10f2rvf0871bwbi9x82.jpg,102,1,0.6776647567749023,0.5124757289886475,Small,Center
+Original U-Net,cju2srvy5440s0801y1ba9akr.jpg,cju2srvy5440s0801y1ba9akr.jpg,103,1,0.899194598197937,0.8168515563011169,Large,Center
+Original U-Net,cju2nguelpmlj0835rojdn097.jpg,cju2nguelpmlj0835rojdn097.jpg,104,1,0.9626567363739014,0.9280020594596863,Medium,Center
+Original U-Net,cju8clorgsuwn08714toqb7v6.jpg,cju8clorgsuwn08714toqb7v6.jpg,105,1,0.961288332939148,0.9254621267318726,Medium,Center
+Original U-Net,cju33231uy4gi0993qc7b1jch.jpg,cju33231uy4gi0993qc7b1jch.jpg,106,1,0.7205645442008972,0.5631894469261169,Small,Center
+Original U-Net,cjyztzaqtrv430848l8xgcerw.jpg,cjyztzaqtrv430848l8xgcerw.jpg,107,1,0.9116402864456177,0.8376277089118958,Large,Center
+Original U-Net,cju7bduyq1rjf08719giru9ho.jpg,cju7bduyq1rjf08719giru9ho.jpg,108,1,0.9220454692840576,0.8553658127784729,Medium,Center
+Original U-Net,cju2nsmwjlzyl0993jl80chvz.jpg,cju2nsmwjlzyl0993jl80chvz.jpg,109,1,0.8250885605812073,0.7022559642791748,Small,Center
+Original U-Net,cju84dsvaklpx098750hp83x4.jpg,cju84dsvaklpx098750hp83x4.jpg,110,1,0.5779191255569458,0.4063897728919983,Large,Center
+Original U-Net,cju7etr3y2p4t0801cdzjj8ab.jpg,cju7etr3y2p4t0801cdzjj8ab.jpg,111,1,0.47251346707344055,0.3093405067920685,Small,Center
+Original U-Net,cju0s690hkp960855tjuaqvv0.jpg,cju0s690hkp960855tjuaqvv0.jpg,112,1,0.8253663182258606,0.702658474445343,Small,Center
+Original U-Net,cju892fesoq2g0801n0e0jyia.jpg,cju892fesoq2g0801n0e0jyia.jpg,113,1,0.9522488713264465,0.9088501930236816,Large,Center
+Original U-Net,cju84hibuktj80871u519o71q.jpg,cju84hibuktj80871u519o71q.jpg,114,1,0.8955783247947693,0.8109025359153748,Small,Center
+Original U-Net,cju2z6ez69g4u0801qwt088lw.jpg,cju2z6ez69g4u0801qwt088lw.jpg,115,1,0.5350605845451355,0.36524417996406555,Large,Center
+Original U-Net,cju5x7iskmad90818frchyfwd.jpg,cju5x7iskmad90818frchyfwd.jpg,116,1,0.512927234172821,0.34492409229278564,Medium,Peripheral
+Original U-Net,cju41z76wlgbz0801qdetlvby.jpg,cju41z76wlgbz0801qdetlvby.jpg,117,1,0.87884122133255,0.783868670463562,Medium,Center
+Original U-Net,cju2t16vuucaq0835xcpsivn2.jpg,cju2t16vuucaq0835xcpsivn2.jpg,118,1,0.96385258436203,0.9302272200584412,Small,Peripheral
+Original U-Net,cju3xwpgviwlx0871rwm15q7v.jpg,cju3xwpgviwlx0871rwm15q7v.jpg,119,1,0.6357646584510803,0.46602270007133484,Small,Center
+Original U-Net,cjyzufihqquiw0a46jatrbwln.jpg,cjyzufihqquiw0a46jatrbwln.jpg,120,1,0.481979101896286,0.3175049126148224,Large,Center
+Original U-Net,cju7bmi1v1pnj0987pa52jjok.jpg,cju7bmi1v1pnj0987pa52jjok.jpg,121,1,0.9285445213317871,0.8666198253631592,Medium,Center
+Original U-Net,cju772304yw5t0818vbw8kkjf.jpg,cju772304yw5t0818vbw8kkjf.jpg,122,1,0.9443260431289673,0.894524335861206,Small,Center
+Original U-Net,cju7d7aut2a2p0818z4uxc6cd.jpg,cju7d7aut2a2p0818z4uxc6cd.jpg,123,1,0.9232175350189209,0.8573853969573975,Small,Center
+Original U-Net,cju2rlqdnoz9k0993cpjae3x0.jpg,cju2rlqdnoz9k0993cpjae3x0.jpg,124,1,0.9468510150909424,0.8990665078163147,Medium,Center
+Original U-Net,cju5uxjnol2r509871qv2yeia.jpg,cju5uxjnol2r509871qv2yeia.jpg,125,1,0.9165974855422974,0.846035897731781,Small,Center
+Original U-Net,cju160wshltz10993i1gmqxbe.jpg,cju160wshltz10993i1gmqxbe.jpg,126,1,0.03496897965669632,0.017795637249946594,Small,Peripheral
+Original U-Net,cju5yimthmlv80850zhoc90c2.jpg,cju5yimthmlv80850zhoc90c2.jpg,127,1,0.37474915385246277,0.23057927191257477,Small,Center
+Original U-Net,cju5clr68b48r0755cmuvponm.jpg,cju5clr68b48r0755cmuvponm.jpg,128,1,0.958834707736969,0.9209246039390564,Medium,Center
+Original U-Net,cju2txjfzv60w098839dcimys.jpg,cju2txjfzv60w098839dcimys.jpg,129,1,0.892985999584198,0.80666184425354,Medium,Center
+Original U-Net,cju2sxf3iqbpv09937iksn8ep.jpg,cju2sxf3iqbpv09937iksn8ep.jpg,130,1,0.948900580406189,0.9027695655822754,Large,Center
+Original U-Net,cju1ewnoh5z030855vpex9uzt.jpg,cju1ewnoh5z030855vpex9uzt.jpg,131,1,0.5050581693649292,0.3378446698188782,Medium,Center
+Original U-Net,cju16d65tzw9d0799ouslsw25.jpg,cju16d65tzw9d0799ouslsw25.jpg,132,1,0.9388639330863953,0.8847724795341492,Small,Center
+Original U-Net,cju16jgnyzp970878melv7r25.jpg,cju16jgnyzp970878melv7r25.jpg,133,1,0.9784981608390808,0.9579014778137207,Medium,Center
+Original U-Net,cju3y21quj0ir0818kgjagr15.jpg,cju3y21quj0ir0818kgjagr15.jpg,134,1,0.9603135585784912,0.9236569404602051,Large,Center
+Original U-Net,cju5xjn5mm78b09871spyqhhr.jpg,cju5xjn5mm78b09871spyqhhr.jpg,135,1,0.8378739356994629,0.7209836840629578,Medium,Center
+Original U-Net,cju1egh885m1l0855ci1lt37c.jpg,cju1egh885m1l0855ci1lt37c.jpg,136,1,0.9111179709434509,0.8367462754249573,Small,Center
+Original U-Net,cju5ktjwofed70817eg58ef7u.jpg,cju5ktjwofed70817eg58ef7u.jpg,137,1,0.9419758319854736,0.8903159499168396,Medium,Center
+Original U-Net,cju8axq24r4an0755yhv9d4ly.jpg,cju8axq24r4an0755yhv9d4ly.jpg,138,1,0.8929976224899292,0.8066808581352234,Small,Center
+Original U-Net,cju7dwe282dc309876rco45ts.jpg,cju7dwe282dc309876rco45ts.jpg,139,1,0.45657065510749817,0.29581570625305176,Large,Center
+Original U-Net,cju7ajnbo1gvm098749rdouk0.jpg,cju7ajnbo1gvm098749rdouk0.jpg,140,1,0.9813435673713684,0.9633704423904419,Large,Peripheral
+Original U-Net,cju1fj6axwfp30835ukhuzhw9.jpg,cju1fj6axwfp30835ukhuzhw9.jpg,141,1,0.8770468831062317,0.7810182571411133,Large,Peripheral
+Original U-Net,cju7dsrtb2f8i085064kwugfk.jpg,cju7dsrtb2f8i085064kwugfk.jpg,142,1,0.9540700316429138,0.9121739268302917,Small,Center
+Original U-Net,cju2i8br1vqtd08784u6vmcjk.jpg,cju2i8br1vqtd08784u6vmcjk.jpg,143,1,0.9475134611129761,0.9002618789672852,Large,Peripheral
+Original U-Net,cju2t62nq45jl0799odpufwx6.jpg,cju2t62nq45jl0799odpufwx6.jpg,144,1,0.9137705564498901,0.8412315845489502,Large,Center
+Original U-Net,cju2uzabhs6er0993x3aaf87p.jpg,cju2uzabhs6er0993x3aaf87p.jpg,145,1,0.3989628553390503,0.24919025599956512,Medium,Center
+Original U-Net,cju2z1nxlzaj40835wj81s1iy.jpg,cju2z1nxlzaj40835wj81s1iy.jpg,146,1,0.9023817777633667,0.8221271634101868,Large,Center
+Original U-Net,cju7dxffn2eam0817qxosfwch.jpg,cju7dxffn2eam0817qxosfwch.jpg,147,1,0.6395795345306396,0.4701336920261383,Medium,Peripheral
+Original U-Net,cju15ptjtppz40988odsm9azx.jpg,cju15ptjtppz40988odsm9azx.jpg,148,1,0.36462128162384033,0.22295831143856049,Small,Center
+Original U-Net,cju1gghyjwxt80835vx0wgxw0.jpg,cju1gghyjwxt80835vx0wgxw0.jpg,149,1,0.9178133606910706,0.8481100797653198,Large,Center
+Original U-Net,cju6yywx1whbb0871ksgfgf9f.jpg,cju6yywx1whbb0871ksgfgf9f.jpg,150,1,0.8554321527481079,0.7473843693733215,Small,Center
+ResNet34-U-Net,cju5jz5fff8c50871hbe6108f.jpg,cju5jz5fff8c50871hbe6108f.jpg,1,1,0.9751298427581787,0.9514666795730591,Medium,Center
+ResNet34-U-Net,cju8doa16u5gh0818w1ywda3q.jpg,cju8doa16u5gh0818w1ywda3q.jpg,2,1,0.9664929509162903,0.9351584911346436,Large,Center
+ResNet34-U-Net,cju7ea4om2l910801bohqjccy.jpg,cju7ea4om2l910801bohqjccy.jpg,3,1,0.9614152312278748,0.9256974458694458,Small,Peripheral
+ResNet34-U-Net,cju2wve9v7esz0878mxsdcy04.jpg,cju2wve9v7esz0878mxsdcy04.jpg,4,1,0.9611095190048218,0.9251307249069214,Small,Center
+ResNet34-U-Net,ck2bxiswtxuw80838qkisqjwz.jpg,ck2bxiswtxuw80838qkisqjwz.jpg,5,1,0.4607850909233093,0.2993637025356293,Large,Center
+ResNet34-U-Net,cju2yb31a8e8u0878wdashg7o.jpg,cju2yb31a8e8u0878wdashg7o.jpg,6,1,0.9784751534461975,0.9578573703765869,Medium,Center
+ResNet34-U-Net,cju2lberzkdzm09938cl40pog.jpg,cju2lberzkdzm09938cl40pog.jpg,7,1,0.9681221842765808,0.9382140040397644,Large,Center
+ResNet34-U-Net,cju42qet0lsq90871e50xbnuv.jpg,cju42qet0lsq90871e50xbnuv.jpg,8,1,0.9435908198356628,0.8932058215141296,Small,Center
+ResNet34-U-Net,cju6z7e4bwgdd0987ogkzq9kt.jpg,cju6z7e4bwgdd0987ogkzq9kt.jpg,9,1,0.9633216857910156,0.9292387366294861,Medium,Center
+ResNet34-U-Net,cju3umoh1geet0817cmpef5am.jpg,cju3umoh1geet0817cmpef5am.jpg,10,1,0.9423400163650513,0.8909668922424316,Medium,Peripheral
+ResNet34-U-Net,cju5ca9hcatkc0801jzwe7tfx.jpg,cju5ca9hcatkc0801jzwe7tfx.jpg,11,1,0.5715261101722717,0.4000956118106842,Medium,Center
+ResNet34-U-Net,cju77bvg0yv4r0987yh60xmjo.jpg,cju77bvg0yv4r0987yh60xmjo.jpg,12,1,0.9665100574493408,0.9351905584335327,Small,Center
+ResNet34-U-Net,cju2sevf53lkx08558h5bpaig.jpg,cju2sevf53lkx08558h5bpaig.jpg,13,1,0.8581666350364685,0.7515690326690674,Large,Center
+ResNet34-U-Net,cju30ywtc0oar0835bp2en7ec.jpg,cju30ywtc0oar0835bp2en7ec.jpg,14,1,0.8176367282867432,0.6915274858474731,Medium,Center
+ResNet34-U-Net,cju7d8m3b2e210755l8fj1yph.jpg,cju7d8m3b2e210755l8fj1yph.jpg,15,1,0.2557922303676605,0.14665237069129944,Large,Center
+ResNet34-U-Net,cju5vi4nxlc530817uoqm2m7a.jpg,cju5vi4nxlc530817uoqm2m7a.jpg,16,1,0.9809378385543823,0.9625887870788574,Large,Center
+ResNet34-U-Net,cju2saez63gxl08559ucjq3kt.jpg,cju2saez63gxl08559ucjq3kt.jpg,17,1,0.9739664793014526,0.9492540955543518,Medium,Center
+ResNet34-U-Net,cju1cdxvz48hw0801i0fjwcnk.jpg,cju1cdxvz48hw0801i0fjwcnk.jpg,18,1,0.6261990666389465,0.45581501722335815,Small,Center
+ResNet34-U-Net,cju2yi9tz8vky0801yqip0xyl.jpg,cju2yi9tz8vky0801yqip0xyl.jpg,19,1,0.89323490858078,0.8070681691169739,Large,Center
+ResNet34-U-Net,cju3v3ac9gyz30755hfqwyp1i.jpg,cju3v3ac9gyz30755hfqwyp1i.jpg,20,1,0.9507744312286377,0.9061678647994995,Small,Center
+ResNet34-U-Net,cju310f6val1v0855xo8tc3gu.jpg,cju310f6val1v0855xo8tc3gu.jpg,21,1,0.8242785930633545,0.7010833024978638,Large,Center
+ResNet34-U-Net,cju84aoa3ktwn0755pfl4gfwd.jpg,cju84aoa3ktwn0755pfl4gfwd.jpg,22,1,0.979050874710083,0.9589614868164062,Large,Center
+ResNet34-U-Net,cjyzlw7f9faqr070129au64sq.jpg,cjyzlw7f9faqr070129au64sq.jpg,23,1,0.914875864982605,0.8431070446968079,Medium,Center
+ResNet34-U-Net,cju85hguellg50818kwu3s8d1.jpg,cju85hguellg50818kwu3s8d1.jpg,24,1,0.9416760802268982,0.8897805213928223,Large,Center
+ResNet34-U-Net,cju2tqfgw4oat0799rn0g5b2z.jpg,cju2tqfgw4oat0799rn0g5b2z.jpg,25,1,0.9214929342269897,0.8544152975082397,Medium,Center
+ResNet34-U-Net,cju1b75x63ddl0799sdp0i2j3.jpg,cju1b75x63ddl0799sdp0i2j3.jpg,26,1,0.9426519274711609,0.8915247321128845,Small,Center
+ResNet34-U-Net,cju7fen322ou10817ziqkob4k.jpg,cju7fen322ou10817ziqkob4k.jpg,27,1,0.8843651413917542,0.792701244354248,Medium,Center
+ResNet34-U-Net,cju7f5ghb2r5s0801chwkxxh9.jpg,cju7f5ghb2r5s0801chwkxxh9.jpg,28,1,0.9697522521018982,0.9412806630134583,Large,Center
+ResNet34-U-Net,cju8828oxnool0801qno9luhr.jpg,cju8828oxnool0801qno9luhr.jpg,29,1,0.9414642453193665,0.8894023895263672,Large,Center
+ResNet34-U-Net,cju324q101fhe08350wae9cif.jpg,cju324q101fhe08350wae9cif.jpg,30,1,0.9394358396530151,0.8857887387275696,Medium,Center
+ResNet34-U-Net,cju7avvi51iox0817ym55y6tt.jpg,cju7avvi51iox0817ym55y6tt.jpg,31,1,0.9210662245750427,0.8536818623542786,Large,Center
+ResNet34-U-Net,cju2syxa93yw40799x2iuwabz.jpg,cju2syxa93yw40799x2iuwabz.jpg,32,1,0.9478292465209961,0.9008321762084961,Small,Center
+ResNet34-U-Net,cju5ufn3skquf0818dhapnhba.jpg,cju5ufn3skquf0818dhapnhba.jpg,33,1,0.9154807925224304,0.8441351652145386,Small,Center
+ResNet34-U-Net,cju7b10ce1mnm08011c5bwyr4.jpg,cju7b10ce1mnm08011c5bwyr4.jpg,34,1,0.9086931347846985,0.8326650857925415,Medium,Center
+ResNet34-U-Net,cju6z1bzbwfq50817b2alatvr.jpg,cju6z1bzbwfq50817b2alatvr.jpg,35,1,0.8952797651290894,0.8104130625724792,Large,Center
+ResNet34-U-Net,cju2yo1j1v0qz09934o0e683p.jpg,cju2yo1j1v0qz09934o0e683p.jpg,36,1,0.8886376619338989,0.7995931506156921,Large,Peripheral
+ResNet34-U-Net,cju35i2e63uxr0835h7zgkg9k.jpg,cju35i2e63uxr0835h7zgkg9k.jpg,37,1,0.9264134168624878,0.862914502620697,Medium,Center
+ResNet34-U-Net,cju42wamblrqn098798r2yyok.jpg,cju42wamblrqn098798r2yyok.jpg,38,1,0.8676358461380005,0.7662162780761719,Large,Center
+ResNet34-U-Net,cju2okvco06xc0799kxe5n1qh.jpg,cju2okvco06xc0799kxe5n1qh.jpg,39,1,0.9868036508560181,0.9739510416984558,Large,Center
+ResNet34-U-Net,ck2bxlujamu330725szlc2jdu.jpg,ck2bxlujamu330725szlc2jdu.jpg,40,1,0.8510266542434692,0.7406843900680542,Small,Peripheral
+ResNet34-U-Net,cju7dizi82h2i0755doucgnt3.jpg,cju7dizi82h2i0755doucgnt3.jpg,41,1,0.48161259293556213,0.3171868920326233,Small,Center
+ResNet34-U-Net,cju5hwonqedw10801vsd3w6kk.jpg,cju5hwonqedw10801vsd3w6kk.jpg,42,1,0.9588178992271423,0.9208935499191284,Medium,Center
+ResNet34-U-Net,cju2p4ddkmzxj0993p94o62av.jpg,cju2p4ddkmzxj0993p94o62av.jpg,43,1,0.7895490527153015,0.6522767543792725,Small,Center
+ResNet34-U-Net,cju8aqq8uqmoq0987hphto9gg.jpg,cju8aqq8uqmoq0987hphto9gg.jpg,44,1,0.8996727466583252,0.8176410794258118,Large,Center
+ResNet34-U-Net,cju6uzxk0v83p0801rcwnexdu.jpg,cju6uzxk0v83p0801rcwnexdu.jpg,45,1,0.9630552530288696,0.9287430644035339,Large,Center
+ResNet34-U-Net,cju1cu1u2474n0878tt7v4tdr.jpg,cju1cu1u2474n0878tt7v4tdr.jpg,46,1,0.7623845338821411,0.616010844707489,Small,Center
+ResNet34-U-Net,cju76o55nymqd0871h31sph9w.jpg,cju76o55nymqd0871h31sph9w.jpg,47,1,0.8794326186180115,0.7848101258277893,Small,Peripheral
+ResNet34-U-Net,cju7arvfe1ldu0850erdmphgj.jpg,cju7arvfe1ldu0850erdmphgj.jpg,48,1,0.9795877933502197,0.9599922299385071,Medium,Center
+ResNet34-U-Net,cju8djdqztu6408506pzhlo18.jpg,cju8djdqztu6408506pzhlo18.jpg,49,1,0.9423897862434387,0.8910559415817261,Medium,Center
+ResNet34-U-Net,cju2yg5ht8i4p087800js8hp4.jpg,cju2yg5ht8i4p087800js8hp4.jpg,50,1,0.9643030166625977,0.9310667514801025,Medium,Center
+ResNet34-U-Net,cju7ae7bq1f820987toc8si1d.jpg,cju7ae7bq1f820987toc8si1d.jpg,51,1,0.7990471124649048,0.6653442978858948,Small,Center
+ResNet34-U-Net,cju2s2527pfyr0993l3h1149a.jpg,cju2s2527pfyr0993l3h1149a.jpg,52,1,0.9402868151664734,0.8873031735420227,Small,Peripheral
+ResNet34-U-Net,cju34c1xfyz920993itxkkfad.jpg,cju34c1xfyz920993itxkkfad.jpg,53,1,0.8937919735908508,0.8079781532287598,Large,Center
+ResNet34-U-Net,cju353d1eda8c07992afde611.jpg,cju353d1eda8c07992afde611.jpg,54,1,0.9639232158660889,0.93035888671875,Medium,Peripheral
+ResNet34-U-Net,cju2oi8sq0i2y0801mektzvw8.jpg,cju2oi8sq0i2y0801mektzvw8.jpg,55,1,0.9140210747718811,0.8416563868522644,Large,Center
+ResNet34-U-Net,cju34uhepd3dd0799hs8782ad.jpg,cju34uhepd3dd0799hs8782ad.jpg,56,1,0.5061572194099426,0.33882901072502136,Small,Center
+ResNet34-U-Net,cju87nkyrnb970801q84m47yt.jpg,cju87nkyrnb970801q84m47yt.jpg,57,1,0.7998120188713074,0.6664056181907654,Medium,Peripheral
+ResNet34-U-Net,cju6xlygpw7bs0818n691jsq4.jpg,cju6xlygpw7bs0818n691jsq4.jpg,58,1,0.9416844248771667,0.8897955417633057,Large,Center
+ResNet34-U-Net,cju42dwedlmk60871jbgu4ehi.jpg,cju42dwedlmk60871jbgu4ehi.jpg,59,1,0.9765978455543518,0.9542660117149353,Medium,Center
+ResNet34-U-Net,cju8c9akjsdjj0850s67uzlxq.jpg,cju8c9akjsdjj0850s67uzlxq.jpg,60,1,0.9817744493484497,0.9642013907432556,Medium,Center
+ResNet34-U-Net,cju8c2rqzs5t80850d0zky5dy.jpg,cju8c2rqzs5t80850d0zky5dy.jpg,61,1,0.8774778842926025,0.7817021012306213,Large,Center
+ResNet34-U-Net,cju1ffnjn6ctm08015perkg37.jpg,cju1ffnjn6ctm08015perkg37.jpg,62,1,0.9051216840744019,0.8266870379447937,Large,Peripheral
+ResNet34-U-Net,cju88z8bson4h0871nnd7fdxo.jpg,cju88z8bson4h0871nnd7fdxo.jpg,63,1,0.970267117023468,0.9422512054443359,Medium,Center
+ResNet34-U-Net,cjyzk8qieoboa0848ogj51wwm.jpg,cjyzk8qieoboa0848ogj51wwm.jpg,64,1,0.9451557397842407,0.8960145115852356,Large,Center
+ResNet34-U-Net,cju88k75inzyb0850ccv5x3vk.jpg,cju88k75inzyb0850ccv5x3vk.jpg,65,1,0.9115641713142395,0.83749920129776,Large,Peripheral
+ResNet34-U-Net,cju1dg44i4z3w0801nyz4p6zf.jpg,cju1dg44i4z3w0801nyz4p6zf.jpg,66,1,1.7482518210876208e-10,1.7482518210876208e-10,Small,Peripheral
+ResNet34-U-Net,cju2zpw4q9vzr0801p0lysjdl.jpg,cju2zpw4q9vzr0801p0lysjdl.jpg,67,1,0.95590740442276,0.9155389666557312,Small,Center
+ResNet34-U-Net,cju7fbndk2sl608015ravktum.jpg,cju7fbndk2sl608015ravktum.jpg,68,1,0.965434193611145,0.9331781268119812,Medium,Center
+ResNet34-U-Net,cju2tpfa5uyx408359datxqqj.jpg,cju2tpfa5uyx408359datxqqj.jpg,69,1,0.06487301737070084,0.033523909747600555,Medium,Center
+ResNet34-U-Net,cju77re6fz5bb0817vp9redjg.jpg,cju77re6fz5bb0817vp9redjg.jpg,70,1,0.7989371418952942,0.6651917695999146,Medium,Center
+ResNet34-U-Net,cju1871y11d6r0799k6cw4yze.jpg,cju1871y11d6r0799k6cw4yze.jpg,71,1,0.969905436038971,0.9415692687034607,Medium,Peripheral
+ResNet34-U-Net,cju1cqc7n4gpy0855jt246k68.jpg,cju1cqc7n4gpy0855jt246k68.jpg,72,1,0.9458763003349304,0.8973104953765869,Small,Peripheral
+ResNet34-U-Net,cju7cq6su27qv075574dir0r3.jpg,cju7cq6su27qv075574dir0r3.jpg,73,1,0.9461998343467712,0.8978930115699768,Medium,Center
+ResNet34-U-Net,cju2r6mt2om21099352pny5gw.jpg,cju2r6mt2om21099352pny5gw.jpg,74,1,0.8158093690872192,0.6889172196388245,Large,Center
+ResNet34-U-Net,cju5wkonqlrl409877y8zvnub.jpg,cju5wkonqlrl409877y8zvnub.jpg,75,1,0.9460406303405762,0.897606372833252,Medium,Center
+ResNet34-U-Net,cju34ouumcznz07996gg1xq7v.jpg,cju34ouumcznz07996gg1xq7v.jpg,76,1,0.9414781332015991,0.8894271850585938,Large,Center
+ResNet34-U-Net,cju88t4fvokxf07558ymyh281.jpg,cju88t4fvokxf07558ymyh281.jpg,77,1,0.9466084837913513,0.898629367351532,Small,Center
+ResNet34-U-Net,cju8apjewqrk00801k5d71gky.jpg,cju8apjewqrk00801k5d71gky.jpg,78,1,0.9771612286567688,0.9553424119949341,Medium,Peripheral
+ResNet34-U-Net,cju6vta3kvazg0817qbeppjtm.jpg,cju6vta3kvazg0817qbeppjtm.jpg,79,1,0.9734761118888855,0.9483228921890259,Large,Center
+ResNet34-U-Net,cju6wuojavt740818b5qcv3iw.jpg,cju6wuojavt740818b5qcv3iw.jpg,80,1,0.9696316719055176,0.9410534501075745,Large,Center
+ResNet34-U-Net,cju85qefyln6v0850szeb9byi.jpg,cju85qefyln6v0850szeb9byi.jpg,81,1,0.9751459360122681,0.9514973759651184,Large,Center
+ResNet34-U-Net,cju2zxja9w1eh09933609ho9z.jpg,cju2zxja9w1eh09933609ho9z.jpg,82,1,0.959773600101471,0.922658383846283,Small,Center
+ResNet34-U-Net,cju5thdbrjp1108715xdfx356.jpg,cju5thdbrjp1108715xdfx356.jpg,83,1,0.9456700682640076,0.8969393968582153,Small,Center
+ResNet34-U-Net,cju1dfeupuzlw0835gnxip369.jpg,cju1dfeupuzlw0835gnxip369.jpg,84,1,0.9524102210998535,0.9091442227363586,Small,Center
+ResNet34-U-Net,cju35fxqyzt5p0993vusm54qz.jpg,cju35fxqyzt5p0993vusm54qz.jpg,85,1,0.9393100738525391,0.8855651617050171,Medium,Center
+ResNet34-U-Net,cju2hdr06v2bq0799mbm3bks1.jpg,cju2hdr06v2bq0799mbm3bks1.jpg,86,1,0.9443943500518799,0.894646942615509,Large,Peripheral
+ResNet34-U-Net,cju5i5oh2efg60987ez6cpf72.jpg,cju5i5oh2efg60987ez6cpf72.jpg,87,1,0.9810889363288879,0.9628798961639404,Large,Center
+ResNet34-U-Net,cju42romflni20817etb9a0fl.jpg,cju42romflni20817etb9a0fl.jpg,88,1,0.8876702785491943,0.7980279922485352,Medium,Center
+ResNet34-U-Net,cju7dlk532dsh0871zvr6qz0r.jpg,cju7dlk532dsh0871zvr6qz0r.jpg,89,1,0.9167515635490417,0.8462985754013062,Large,Peripheral
+ResNet34-U-Net,cju1819curo000988pd5xcqme.jpg,cju1819curo000988pd5xcqme.jpg,90,1,0.967327892780304,0.9367231726646423,Medium,Center
+ResNet34-U-Net,cju84ffdzkrjn08183jh1fxmb.jpg,cju84ffdzkrjn08183jh1fxmb.jpg,91,1,0.9552504420280457,0.9143343567848206,Small,Peripheral
+ResNet34-U-Net,cju2y8s56ymqr083541ggdsml.jpg,cju2y8s56ymqr083541ggdsml.jpg,92,1,0.9433512091636658,0.8927765488624573,Medium,Center
+ResNet34-U-Net,cju5ymyd8mmdc0801ry3by1xr.jpg,cju5ymyd8mmdc0801ry3by1xr.jpg,93,1,0.8632302284240723,0.7593712210655212,Small,Peripheral
+ResNet34-U-Net,cju33belnbyhm0878yxl42233.jpg,cju33belnbyhm0878yxl42233.jpg,94,1,0.9032337665557861,0.823542594909668,Small,Center
+ResNet34-U-Net,cju887ftknop008177nnjt46y.jpg,cju887ftknop008177nnjt46y.jpg,95,1,0.9397791028022766,0.8863993883132935,Small,Center
+ResNet34-U-Net,cju34i3qvcyog0855qiejxx5w.jpg,cju34i3qvcyog0855qiejxx5w.jpg,96,1,0.9098944067955017,0.8346846103668213,Large,Center
+ResNet34-U-Net,cju1f5x1164xv08555654c24r.jpg,cju1f5x1164xv08555654c24r.jpg,97,1,0.9274501204490662,0.8647150993347168,Medium,Peripheral
+ResNet34-U-Net,cju35k2fr3vc50988c85qkrwg.jpg,cju35k2fr3vc50988c85qkrwg.jpg,98,1,0.9309941530227661,0.8708971738815308,Small,Center
+ResNet34-U-Net,cju1euuc65wm00799m4sjdnnn.jpg,cju1euuc65wm00799m4sjdnnn.jpg,99,1,0.9534004926681519,0.9109506607055664,Small,Center
+ResNet34-U-Net,cjz14qsk2wci60794un9ozwmw.jpg,cjz14qsk2wci60794un9ozwmw.jpg,100,1,0.9687946438789368,0.9394778609275818,Medium,Center
+ResNet34-U-Net,cju32srle1xfq083575i3fl75.jpg,cju32srle1xfq083575i3fl75.jpg,101,1,0.9603126049041748,0.9236551523208618,Small,Center
+ResNet34-U-Net,cju7ey10f2rvf0871bwbi9x82.jpg,cju7ey10f2rvf0871bwbi9x82.jpg,102,1,0.6846168041229248,0.5204694867134094,Small,Center
+ResNet34-U-Net,cju2srvy5440s0801y1ba9akr.jpg,cju2srvy5440s0801y1ba9akr.jpg,103,1,0.9095808267593384,0.8341569900512695,Large,Center
+ResNet34-U-Net,cju2nguelpmlj0835rojdn097.jpg,cju2nguelpmlj0835rojdn097.jpg,104,1,0.9687358140945435,0.9393672943115234,Medium,Center
+ResNet34-U-Net,cju8clorgsuwn08714toqb7v6.jpg,cju8clorgsuwn08714toqb7v6.jpg,105,1,0.9615545868873596,0.9259558916091919,Medium,Center
+ResNet34-U-Net,cju33231uy4gi0993qc7b1jch.jpg,cju33231uy4gi0993qc7b1jch.jpg,106,1,0.8285916447639465,0.7073465585708618,Small,Center
+ResNet34-U-Net,cjyztzaqtrv430848l8xgcerw.jpg,cjyztzaqtrv430848l8xgcerw.jpg,107,1,0.9220601320266724,0.8553910851478577,Large,Center
+ResNet34-U-Net,cju7bduyq1rjf08719giru9ho.jpg,cju7bduyq1rjf08719giru9ho.jpg,108,1,0.9517505764961243,0.9079428911209106,Medium,Center
+ResNet34-U-Net,cju2nsmwjlzyl0993jl80chvz.jpg,cju2nsmwjlzyl0993jl80chvz.jpg,109,1,0.9654960036277771,0.9332936406135559,Small,Center
+ResNet34-U-Net,cju84dsvaklpx098750hp83x4.jpg,cju84dsvaklpx098750hp83x4.jpg,110,1,0.5273444652557373,0.3580908179283142,Large,Center
+ResNet34-U-Net,cju7etr3y2p4t0801cdzjj8ab.jpg,cju7etr3y2p4t0801cdzjj8ab.jpg,111,1,0.879680335521698,0.7852047085762024,Small,Center
+ResNet34-U-Net,cju0s690hkp960855tjuaqvv0.jpg,cju0s690hkp960855tjuaqvv0.jpg,112,1,0.9473024010658264,0.8998808264732361,Small,Center
+ResNet34-U-Net,cju892fesoq2g0801n0e0jyia.jpg,cju892fesoq2g0801n0e0jyia.jpg,113,1,0.934673011302948,0.8773579001426697,Large,Center
+ResNet34-U-Net,cju84hibuktj80871u519o71q.jpg,cju84hibuktj80871u519o71q.jpg,114,1,0.9663347601890564,0.9348623752593994,Small,Center
+ResNet34-U-Net,cju2z6ez69g4u0801qwt088lw.jpg,cju2z6ez69g4u0801qwt088lw.jpg,115,1,0.8637572526931763,0.7601872086524963,Large,Center
+ResNet34-U-Net,cju5x7iskmad90818frchyfwd.jpg,cju5x7iskmad90818frchyfwd.jpg,116,1,0.6556112170219421,0.4876648783683777,Medium,Peripheral
+ResNet34-U-Net,cju41z76wlgbz0801qdetlvby.jpg,cju41z76wlgbz0801qdetlvby.jpg,117,1,0.937543511390686,0.8824300765991211,Medium,Center
+ResNet34-U-Net,cju2t16vuucaq0835xcpsivn2.jpg,cju2t16vuucaq0835xcpsivn2.jpg,118,1,0.9602096676826477,0.9234647154808044,Small,Peripheral
+ResNet34-U-Net,cju3xwpgviwlx0871rwm15q7v.jpg,cju3xwpgviwlx0871rwm15q7v.jpg,119,1,0.9404489398002625,0.8875918984413147,Small,Center
+ResNet34-U-Net,cjyzufihqquiw0a46jatrbwln.jpg,cjyzufihqquiw0a46jatrbwln.jpg,120,1,0.8723408579826355,0.7735856175422668,Large,Center
+ResNet34-U-Net,cju7bmi1v1pnj0987pa52jjok.jpg,cju7bmi1v1pnj0987pa52jjok.jpg,121,1,0.9250277280807495,0.8605131506919861,Medium,Center
+ResNet34-U-Net,cju772304yw5t0818vbw8kkjf.jpg,cju772304yw5t0818vbw8kkjf.jpg,122,1,0.9497520923614502,0.9043123126029968,Small,Center
+ResNet34-U-Net,cju7d7aut2a2p0818z4uxc6cd.jpg,cju7d7aut2a2p0818z4uxc6cd.jpg,123,1,0.9278911352157593,0.8654822111129761,Small,Center
+ResNet34-U-Net,cju2rlqdnoz9k0993cpjae3x0.jpg,cju2rlqdnoz9k0993cpjae3x0.jpg,124,1,0.912678599357605,0.839382529258728,Medium,Center
+ResNet34-U-Net,cju5uxjnol2r509871qv2yeia.jpg,cju5uxjnol2r509871qv2yeia.jpg,125,1,0.6925292611122131,0.5296709537506104,Small,Center
+ResNet34-U-Net,cju160wshltz10993i1gmqxbe.jpg,cju160wshltz10993i1gmqxbe.jpg,126,1,0.9315760135650635,0.8719159960746765,Small,Peripheral
+ResNet34-U-Net,cju5yimthmlv80850zhoc90c2.jpg,cju5yimthmlv80850zhoc90c2.jpg,127,1,0.8315637707710266,0.7116894721984863,Small,Center
+ResNet34-U-Net,cju5clr68b48r0755cmuvponm.jpg,cju5clr68b48r0755cmuvponm.jpg,128,1,0.9612430334091187,0.9253782033920288,Medium,Center
+ResNet34-U-Net,cju2txjfzv60w098839dcimys.jpg,cju2txjfzv60w098839dcimys.jpg,129,1,0.9493414163589478,0.9035679697990417,Medium,Center
+ResNet34-U-Net,cju2sxf3iqbpv09937iksn8ep.jpg,cju2sxf3iqbpv09937iksn8ep.jpg,130,1,0.9524809718132019,0.9092732071876526,Large,Center
+ResNet34-U-Net,cju1ewnoh5z030855vpex9uzt.jpg,cju1ewnoh5z030855vpex9uzt.jpg,131,1,0.47029149532318115,0.3074386417865753,Medium,Center
+ResNet34-U-Net,cju16d65tzw9d0799ouslsw25.jpg,cju16d65tzw9d0799ouslsw25.jpg,132,1,0.9289868474006653,0.8673906922340393,Small,Center
+ResNet34-U-Net,cju16jgnyzp970878melv7r25.jpg,cju16jgnyzp970878melv7r25.jpg,133,1,0.9500378370285034,0.9048305749893188,Medium,Center
+ResNet34-U-Net,cju3y21quj0ir0818kgjagr15.jpg,cju3y21quj0ir0818kgjagr15.jpg,134,1,0.8746944665908813,0.7772950530052185,Large,Center
+ResNet34-U-Net,cju5xjn5mm78b09871spyqhhr.jpg,cju5xjn5mm78b09871spyqhhr.jpg,135,1,0.8078019022941589,0.6775735020637512,Medium,Center
+ResNet34-U-Net,cju1egh885m1l0855ci1lt37c.jpg,cju1egh885m1l0855ci1lt37c.jpg,136,1,0.8727380633354187,0.774210512638092,Small,Center
+ResNet34-U-Net,cju5ktjwofed70817eg58ef7u.jpg,cju5ktjwofed70817eg58ef7u.jpg,137,1,0.9481437802314758,0.9014005661010742,Medium,Center
+ResNet34-U-Net,cju8axq24r4an0755yhv9d4ly.jpg,cju8axq24r4an0755yhv9d4ly.jpg,138,1,0.9713661074638367,0.9443264007568359,Small,Center
+ResNet34-U-Net,cju7dwe282dc309876rco45ts.jpg,cju7dwe282dc309876rco45ts.jpg,139,1,0.9004580974578857,0.8189393281936646,Large,Center
+ResNet34-U-Net,cju7ajnbo1gvm098749rdouk0.jpg,cju7ajnbo1gvm098749rdouk0.jpg,140,1,0.9447165131568909,0.8952253460884094,Large,Peripheral
+ResNet34-U-Net,cju1fj6axwfp30835ukhuzhw9.jpg,cju1fj6axwfp30835ukhuzhw9.jpg,141,1,0.8069756627082825,0.6764117479324341,Large,Peripheral
+ResNet34-U-Net,cju7dsrtb2f8i085064kwugfk.jpg,cju7dsrtb2f8i085064kwugfk.jpg,142,1,0.9630655646324158,0.9287622570991516,Small,Center
+ResNet34-U-Net,cju2i8br1vqtd08784u6vmcjk.jpg,cju2i8br1vqtd08784u6vmcjk.jpg,143,1,0.9757623076438904,0.9526717662811279,Large,Peripheral
+ResNet34-U-Net,cju2t62nq45jl0799odpufwx6.jpg,cju2t62nq45jl0799odpufwx6.jpg,144,1,0.9726961255073547,0.9468436241149902,Large,Center
+ResNet34-U-Net,cju2uzabhs6er0993x3aaf87p.jpg,cju2uzabhs6er0993x3aaf87p.jpg,145,1,0.4122229814529419,0.259622722864151,Medium,Center
+ResNet34-U-Net,cju2z1nxlzaj40835wj81s1iy.jpg,cju2z1nxlzaj40835wj81s1iy.jpg,146,1,0.9593039751052856,0.9217907190322876,Large,Center
+ResNet34-U-Net,cju7dxffn2eam0817qxosfwch.jpg,cju7dxffn2eam0817qxosfwch.jpg,147,1,0.564230740070343,0.39298149943351746,Medium,Peripheral
+ResNet34-U-Net,cju15ptjtppz40988odsm9azx.jpg,cju15ptjtppz40988odsm9azx.jpg,148,1,0.8489991426467896,0.7376181483268738,Small,Center
+ResNet34-U-Net,cju1gghyjwxt80835vx0wgxw0.jpg,cju1gghyjwxt80835vx0wgxw0.jpg,149,1,0.9564554691314697,0.9165449738502502,Large,Center
+ResNet34-U-Net,cju6yywx1whbb0871ksgfgf9f.jpg,cju6yywx1whbb0871ksgfgf9f.jpg,150,1,0.9278724193572998,0.8654496073722839,Small,Center
+Attention U-Net,cju5jz5fff8c50871hbe6108f.jpg,cju5jz5fff8c50871hbe6108f.jpg,1,1,0.9777922630310059,0.9565495252609253,Medium,Center
+Attention U-Net,cju8doa16u5gh0818w1ywda3q.jpg,cju8doa16u5gh0818w1ywda3q.jpg,2,1,0.5446441173553467,0.37423428893089294,Large,Center
+Attention U-Net,cju7ea4om2l910801bohqjccy.jpg,cju7ea4om2l910801bohqjccy.jpg,3,1,0.9575791358947754,0.9186108112335205,Small,Peripheral
+Attention U-Net,cju2wve9v7esz0878mxsdcy04.jpg,cju2wve9v7esz0878mxsdcy04.jpg,4,1,0.9487660527229309,0.9025260806083679,Small,Center
+Attention U-Net,ck2bxiswtxuw80838qkisqjwz.jpg,ck2bxiswtxuw80838qkisqjwz.jpg,5,1,0.41976577043533325,0.2656351625919342,Large,Center
+Attention U-Net,cju2yb31a8e8u0878wdashg7o.jpg,cju2yb31a8e8u0878wdashg7o.jpg,6,1,0.9830988645553589,0.9667595028877258,Medium,Center
+Attention U-Net,cju2lberzkdzm09938cl40pog.jpg,cju2lberzkdzm09938cl40pog.jpg,7,1,0.8935378193855286,0.8075629472732544,Large,Center
+Attention U-Net,cju42qet0lsq90871e50xbnuv.jpg,cju42qet0lsq90871e50xbnuv.jpg,8,1,0.9169745445251465,0.8466787338256836,Small,Center
+Attention U-Net,cju6z7e4bwgdd0987ogkzq9kt.jpg,cju6z7e4bwgdd0987ogkzq9kt.jpg,9,1,0.9434728026390076,0.8929944038391113,Medium,Center
+Attention U-Net,cju3umoh1geet0817cmpef5am.jpg,cju3umoh1geet0817cmpef5am.jpg,10,1,0.8804354667663574,0.7864088416099548,Medium,Peripheral
+Attention U-Net,cju5ca9hcatkc0801jzwe7tfx.jpg,cju5ca9hcatkc0801jzwe7tfx.jpg,11,1,0.45259392261505127,0.2924855351448059,Medium,Center
+Attention U-Net,cju77bvg0yv4r0987yh60xmjo.jpg,cju77bvg0yv4r0987yh60xmjo.jpg,12,1,0.9505864381790161,0.9058263301849365,Small,Center
+Attention U-Net,cju2sevf53lkx08558h5bpaig.jpg,cju2sevf53lkx08558h5bpaig.jpg,13,1,0.938299834728241,0.8837710022926331,Large,Center
+Attention U-Net,cju30ywtc0oar0835bp2en7ec.jpg,cju30ywtc0oar0835bp2en7ec.jpg,14,1,0.9315434694290161,0.871859073638916,Medium,Center
+Attention U-Net,cju7d8m3b2e210755l8fj1yph.jpg,cju7d8m3b2e210755l8fj1yph.jpg,15,1,0.17386825382709503,0.09521123766899109,Large,Center
+Attention U-Net,cju5vi4nxlc530817uoqm2m7a.jpg,cju5vi4nxlc530817uoqm2m7a.jpg,16,1,0.9787842631340027,0.9584500193595886,Large,Center
+Attention U-Net,cju2saez63gxl08559ucjq3kt.jpg,cju2saez63gxl08559ucjq3kt.jpg,17,1,0.9661007523536682,0.9344244003295898,Medium,Center
+Attention U-Net,cju1cdxvz48hw0801i0fjwcnk.jpg,cju1cdxvz48hw0801i0fjwcnk.jpg,18,1,0.7743868231773376,0.6318362355232239,Small,Center
+Attention U-Net,cju2yi9tz8vky0801yqip0xyl.jpg,cju2yi9tz8vky0801yqip0xyl.jpg,19,1,0.742975652217865,0.5910590887069702,Large,Center
+Attention U-Net,cju3v3ac9gyz30755hfqwyp1i.jpg,cju3v3ac9gyz30755hfqwyp1i.jpg,20,1,0.9268720746040344,0.8637106418609619,Small,Center
+Attention U-Net,cju310f6val1v0855xo8tc3gu.jpg,cju310f6val1v0855xo8tc3gu.jpg,21,1,0.6679538488388062,0.5014495253562927,Large,Center
+Attention U-Net,cju84aoa3ktwn0755pfl4gfwd.jpg,cju84aoa3ktwn0755pfl4gfwd.jpg,22,1,0.8479859232902527,0.7360898852348328,Large,Center
+Attention U-Net,cjyzlw7f9faqr070129au64sq.jpg,cjyzlw7f9faqr070129au64sq.jpg,23,1,0.9105087518692017,0.8357191681861877,Medium,Center
+Attention U-Net,cju85hguellg50818kwu3s8d1.jpg,cju85hguellg50818kwu3s8d1.jpg,24,1,0.8110239505767822,0.6821197271347046,Large,Center
+Attention U-Net,cju2tqfgw4oat0799rn0g5b2z.jpg,cju2tqfgw4oat0799rn0g5b2z.jpg,25,1,0.9212892651557922,0.8540651798248291,Medium,Center
+Attention U-Net,cju1b75x63ddl0799sdp0i2j3.jpg,cju1b75x63ddl0799sdp0i2j3.jpg,26,1,0.9407448768615723,0.8881192207336426,Small,Center
+Attention U-Net,cju7fen322ou10817ziqkob4k.jpg,cju7fen322ou10817ziqkob4k.jpg,27,1,0.923212468624115,0.8573766350746155,Medium,Center
+Attention U-Net,cju7f5ghb2r5s0801chwkxxh9.jpg,cju7f5ghb2r5s0801chwkxxh9.jpg,28,1,0.9548800587654114,0.9136559963226318,Large,Center
+Attention U-Net,cju8828oxnool0801qno9luhr.jpg,cju8828oxnool0801qno9luhr.jpg,29,1,0.9591819643974304,0.9215655326843262,Large,Center
+Attention U-Net,cju324q101fhe08350wae9cif.jpg,cju324q101fhe08350wae9cif.jpg,30,1,0.8016299605369568,0.6689335703849792,Medium,Center
+Attention U-Net,cju7avvi51iox0817ym55y6tt.jpg,cju7avvi51iox0817ym55y6tt.jpg,31,1,0.8154862523078918,0.6884565949440002,Large,Center
+Attention U-Net,cju2syxa93yw40799x2iuwabz.jpg,cju2syxa93yw40799x2iuwabz.jpg,32,1,0.9317507147789001,0.8722222447395325,Small,Center
+Attention U-Net,cju5ufn3skquf0818dhapnhba.jpg,cju5ufn3skquf0818dhapnhba.jpg,33,1,0.4564923346042633,0.2957499623298645,Small,Center
+Attention U-Net,cju7b10ce1mnm08011c5bwyr4.jpg,cju7b10ce1mnm08011c5bwyr4.jpg,34,1,0.9042433500289917,0.8252227902412415,Medium,Center
+Attention U-Net,cju6z1bzbwfq50817b2alatvr.jpg,cju6z1bzbwfq50817b2alatvr.jpg,35,1,0.5969727039337158,0.42548900842666626,Large,Center
+Attention U-Net,cju2yo1j1v0qz09934o0e683p.jpg,cju2yo1j1v0qz09934o0e683p.jpg,36,1,0.9096008539199829,0.8341907262802124,Large,Peripheral
+Attention U-Net,cju35i2e63uxr0835h7zgkg9k.jpg,cju35i2e63uxr0835h7zgkg9k.jpg,37,1,0.8366589546203613,0.7191863059997559,Medium,Center
+Attention U-Net,cju42wamblrqn098798r2yyok.jpg,cju42wamblrqn098798r2yyok.jpg,38,1,0.9716408252716064,0.9448458552360535,Large,Center
+Attention U-Net,cju2okvco06xc0799kxe5n1qh.jpg,cju2okvco06xc0799kxe5n1qh.jpg,39,1,0.9511929750442505,0.9069284796714783,Large,Center
+Attention U-Net,ck2bxlujamu330725szlc2jdu.jpg,ck2bxlujamu330725szlc2jdu.jpg,40,1,0.7642626762390137,0.6184669137001038,Small,Peripheral
+Attention U-Net,cju7dizi82h2i0755doucgnt3.jpg,cju7dizi82h2i0755doucgnt3.jpg,41,1,0.4114094078540802,0.25897762179374695,Small,Center
+Attention U-Net,cju5hwonqedw10801vsd3w6kk.jpg,cju5hwonqedw10801vsd3w6kk.jpg,42,1,0.9732837080955505,0.9479578137397766,Medium,Center
+Attention U-Net,cju2p4ddkmzxj0993p94o62av.jpg,cju2p4ddkmzxj0993p94o62av.jpg,43,1,0.8549368381500244,0.7466285228729248,Small,Center
+Attention U-Net,cju8aqq8uqmoq0987hphto9gg.jpg,cju8aqq8uqmoq0987hphto9gg.jpg,44,1,0.8914510607719421,0.8041603565216064,Large,Center
+Attention U-Net,cju6uzxk0v83p0801rcwnexdu.jpg,cju6uzxk0v83p0801rcwnexdu.jpg,45,1,0.936669111251831,0.8808820247650146,Large,Center
+Attention U-Net,cju1cu1u2474n0878tt7v4tdr.jpg,cju1cu1u2474n0878tt7v4tdr.jpg,46,1,0.8690789341926575,0.768470048904419,Small,Center
+Attention U-Net,cju76o55nymqd0871h31sph9w.jpg,cju76o55nymqd0871h31sph9w.jpg,47,1,2.7374760444565105e-11,2.7374760444565105e-11,Small,Peripheral
+Attention U-Net,cju7arvfe1ldu0850erdmphgj.jpg,cju7arvfe1ldu0850erdmphgj.jpg,48,1,0.9800704717636108,0.9609197378158569,Medium,Center
+Attention U-Net,cju8djdqztu6408506pzhlo18.jpg,cju8djdqztu6408506pzhlo18.jpg,49,1,0.8494576811790466,0.738310694694519,Medium,Center
+Attention U-Net,cju2yg5ht8i4p087800js8hp4.jpg,cju2yg5ht8i4p087800js8hp4.jpg,50,1,0.953484296798706,0.9111036658287048,Medium,Center
+Attention U-Net,cju7ae7bq1f820987toc8si1d.jpg,cju7ae7bq1f820987toc8si1d.jpg,51,1,0.9383906126022339,0.8839321136474609,Small,Center
+Attention U-Net,cju2s2527pfyr0993l3h1149a.jpg,cju2s2527pfyr0993l3h1149a.jpg,52,1,0.9360912442207336,0.8798604011535645,Small,Peripheral
+Attention U-Net,cju34c1xfyz920993itxkkfad.jpg,cju34c1xfyz920993itxkkfad.jpg,53,1,0.9018420577049255,0.8212316632270813,Large,Center
+Attention U-Net,cju353d1eda8c07992afde611.jpg,cju353d1eda8c07992afde611.jpg,54,1,0.9731113910675049,0.9476309418678284,Medium,Peripheral
+Attention U-Net,cju2oi8sq0i2y0801mektzvw8.jpg,cju2oi8sq0i2y0801mektzvw8.jpg,55,1,0.8156901597976685,0.6887472867965698,Large,Center
+Attention U-Net,cju34uhepd3dd0799hs8782ad.jpg,cju34uhepd3dd0799hs8782ad.jpg,56,1,0.4209426939487457,0.26657846570014954,Small,Center
+Attention U-Net,cju87nkyrnb970801q84m47yt.jpg,cju87nkyrnb970801q84m47yt.jpg,57,1,0.7144836187362671,0.5557950139045715,Medium,Peripheral
+Attention U-Net,cju6xlygpw7bs0818n691jsq4.jpg,cju6xlygpw7bs0818n691jsq4.jpg,58,1,0.9220125675201416,0.855309247970581,Large,Center
+Attention U-Net,cju42dwedlmk60871jbgu4ehi.jpg,cju42dwedlmk60871jbgu4ehi.jpg,59,1,0.9814119338989258,0.9635022878646851,Medium,Center
+Attention U-Net,cju8c9akjsdjj0850s67uzlxq.jpg,cju8c9akjsdjj0850s67uzlxq.jpg,60,1,0.9820523858070374,0.9647376537322998,Medium,Center
+Attention U-Net,cju8c2rqzs5t80850d0zky5dy.jpg,cju8c2rqzs5t80850d0zky5dy.jpg,61,1,0.6913857460021973,0.5283342599868774,Large,Center
+Attention U-Net,cju1ffnjn6ctm08015perkg37.jpg,cju1ffnjn6ctm08015perkg37.jpg,62,1,0.7453038096427917,0.5940113663673401,Large,Peripheral
+Attention U-Net,cju88z8bson4h0871nnd7fdxo.jpg,cju88z8bson4h0871nnd7fdxo.jpg,63,1,0.9779757857322693,0.9569008350372314,Medium,Center
+Attention U-Net,cjyzk8qieoboa0848ogj51wwm.jpg,cjyzk8qieoboa0848ogj51wwm.jpg,64,1,0.742748498916626,0.5907716155052185,Large,Center
+Attention U-Net,cju88k75inzyb0850ccv5x3vk.jpg,cju88k75inzyb0850ccv5x3vk.jpg,65,1,0.7266565561294556,0.5706681609153748,Large,Peripheral
+Attention U-Net,cju1dg44i4z3w0801nyz4p6zf.jpg,cju1dg44i4z3w0801nyz4p6zf.jpg,66,1,0.8599221706390381,0.7542662024497986,Small,Peripheral
+Attention U-Net,cju2zpw4q9vzr0801p0lysjdl.jpg,cju2zpw4q9vzr0801p0lysjdl.jpg,67,1,0.9254921674728394,0.8613172769546509,Small,Center
+Attention U-Net,cju7fbndk2sl608015ravktum.jpg,cju7fbndk2sl608015ravktum.jpg,68,1,0.8042886853218079,0.6726444959640503,Medium,Center
+Attention U-Net,cju2tpfa5uyx408359datxqqj.jpg,cju2tpfa5uyx408359datxqqj.jpg,69,1,0.007670964580029249,0.003850249806419015,Medium,Center
+Attention U-Net,cju77re6fz5bb0817vp9redjg.jpg,cju77re6fz5bb0817vp9redjg.jpg,70,1,0.8556858897209167,0.7477718591690063,Medium,Center
+Attention U-Net,cju1871y11d6r0799k6cw4yze.jpg,cju1871y11d6r0799k6cw4yze.jpg,71,1,0.9526945352554321,0.9096624851226807,Medium,Peripheral
+Attention U-Net,cju1cqc7n4gpy0855jt246k68.jpg,cju1cqc7n4gpy0855jt246k68.jpg,72,1,0.9112063646316528,0.8368954062461853,Small,Peripheral
+Attention U-Net,cju7cq6su27qv075574dir0r3.jpg,cju7cq6su27qv075574dir0r3.jpg,73,1,0.9420962333679199,0.8905311822891235,Medium,Center
+Attention U-Net,cju2r6mt2om21099352pny5gw.jpg,cju2r6mt2om21099352pny5gw.jpg,74,1,0.9243736863136292,0.8593817353248596,Large,Center
+Attention U-Net,cju5wkonqlrl409877y8zvnub.jpg,cju5wkonqlrl409877y8zvnub.jpg,75,1,0.8956131935119629,0.8109596967697144,Medium,Center
+Attention U-Net,cju34ouumcznz07996gg1xq7v.jpg,cju34ouumcznz07996gg1xq7v.jpg,76,1,0.913739025592804,0.8411781787872314,Large,Center
+Attention U-Net,cju88t4fvokxf07558ymyh281.jpg,cju88t4fvokxf07558ymyh281.jpg,77,1,0.9516929984092712,0.9078380465507507,Small,Center
+Attention U-Net,cju8apjewqrk00801k5d71gky.jpg,cju8apjewqrk00801k5d71gky.jpg,78,1,0.6112995147705078,0.44019538164138794,Medium,Peripheral
+Attention U-Net,cju6vta3kvazg0817qbeppjtm.jpg,cju6vta3kvazg0817qbeppjtm.jpg,79,1,0.7676548361778259,0.622921884059906,Large,Center
+Attention U-Net,cju6wuojavt740818b5qcv3iw.jpg,cju6wuojavt740818b5qcv3iw.jpg,80,1,0.932692289352417,0.8738738894462585,Large,Center
+Attention U-Net,cju85qefyln6v0850szeb9byi.jpg,cju85qefyln6v0850szeb9byi.jpg,81,1,0.8463854193687439,0.7336812615394592,Large,Center
+Attention U-Net,cju2zxja9w1eh09933609ho9z.jpg,cju2zxja9w1eh09933609ho9z.jpg,82,1,0.6901328563690186,0.526872456073761,Small,Center
+Attention U-Net,cju5thdbrjp1108715xdfx356.jpg,cju5thdbrjp1108715xdfx356.jpg,83,1,0.9177832007408142,0.8480585217475891,Small,Center
+Attention U-Net,cju1dfeupuzlw0835gnxip369.jpg,cju1dfeupuzlw0835gnxip369.jpg,84,1,0.9591731429100037,0.9215491414070129,Small,Center
+Attention U-Net,cju35fxqyzt5p0993vusm54qz.jpg,cju35fxqyzt5p0993vusm54qz.jpg,85,1,0.9076915383338928,0.8309845924377441,Medium,Center
+Attention U-Net,cju2hdr06v2bq0799mbm3bks1.jpg,cju2hdr06v2bq0799mbm3bks1.jpg,86,1,0.5849545001983643,0.4133821129798889,Large,Peripheral
+Attention U-Net,cju5i5oh2efg60987ez6cpf72.jpg,cju5i5oh2efg60987ez6cpf72.jpg,87,1,0.9786936640739441,0.9582762718200684,Large,Center
+Attention U-Net,cju42romflni20817etb9a0fl.jpg,cju42romflni20817etb9a0fl.jpg,88,1,0.844852864742279,0.7313811779022217,Medium,Center
+Attention U-Net,cju7dlk532dsh0871zvr6qz0r.jpg,cju7dlk532dsh0871zvr6qz0r.jpg,89,1,0.9482207298278809,0.90153968334198,Large,Peripheral
+Attention U-Net,cju1819curo000988pd5xcqme.jpg,cju1819curo000988pd5xcqme.jpg,90,1,0.9341005682945251,0.8763496279716492,Medium,Center
+Attention U-Net,cju84ffdzkrjn08183jh1fxmb.jpg,cju84ffdzkrjn08183jh1fxmb.jpg,91,1,0.8833212852478027,0.7910254597663879,Small,Peripheral
+Attention U-Net,cju2y8s56ymqr083541ggdsml.jpg,cju2y8s56ymqr083541ggdsml.jpg,92,1,0.8104767799377441,0.6813459396362305,Medium,Center
+Attention U-Net,cju5ymyd8mmdc0801ry3by1xr.jpg,cju5ymyd8mmdc0801ry3by1xr.jpg,93,1,0.795406699180603,0.6603114008903503,Small,Peripheral
+Attention U-Net,cju33belnbyhm0878yxl42233.jpg,cju33belnbyhm0878yxl42233.jpg,94,1,0.5139005780220032,0.34580498933792114,Small,Center
+Attention U-Net,cju887ftknop008177nnjt46y.jpg,cju887ftknop008177nnjt46y.jpg,95,1,0.9479869604110718,0.9011170864105225,Small,Center
+Attention U-Net,cju34i3qvcyog0855qiejxx5w.jpg,cju34i3qvcyog0855qiejxx5w.jpg,96,1,0.9044095277786255,0.8254995942115784,Large,Center
+Attention U-Net,cju1f5x1164xv08555654c24r.jpg,cju1f5x1164xv08555654c24r.jpg,97,1,0.8292072415351868,0.708244264125824,Medium,Peripheral
+Attention U-Net,cju35k2fr3vc50988c85qkrwg.jpg,cju35k2fr3vc50988c85qkrwg.jpg,98,1,0.8964525461196899,0.8123371005058289,Small,Center
+Attention U-Net,cju1euuc65wm00799m4sjdnnn.jpg,cju1euuc65wm00799m4sjdnnn.jpg,99,1,0.9681194424629211,0.938208818435669,Small,Center
+Attention U-Net,cjz14qsk2wci60794un9ozwmw.jpg,cjz14qsk2wci60794un9ozwmw.jpg,100,1,0.9757500886917114,0.9526484608650208,Medium,Center
+Attention U-Net,cju32srle1xfq083575i3fl75.jpg,cju32srle1xfq083575i3fl75.jpg,101,1,0.8391047120094299,0.722808301448822,Small,Center
+Attention U-Net,cju7ey10f2rvf0871bwbi9x82.jpg,cju7ey10f2rvf0871bwbi9x82.jpg,102,1,0.676418125629425,0.5110512375831604,Small,Center
+Attention U-Net,cju2srvy5440s0801y1ba9akr.jpg,cju2srvy5440s0801y1ba9akr.jpg,103,1,0.8858869671821594,0.7951499819755554,Large,Center
+Attention U-Net,cju2nguelpmlj0835rojdn097.jpg,cju2nguelpmlj0835rojdn097.jpg,104,1,0.8783591985702515,0.7831020355224609,Medium,Center
+Attention U-Net,cju8clorgsuwn08714toqb7v6.jpg,cju8clorgsuwn08714toqb7v6.jpg,105,1,0.9516977667808533,0.9078466892242432,Medium,Center
+Attention U-Net,cju33231uy4gi0993qc7b1jch.jpg,cju33231uy4gi0993qc7b1jch.jpg,106,1,0.8296418190002441,0.7088785767555237,Small,Center
+Attention U-Net,cjyztzaqtrv430848l8xgcerw.jpg,cjyztzaqtrv430848l8xgcerw.jpg,107,1,0.8943984508514404,0.8089699745178223,Large,Center
+Attention U-Net,cju7bduyq1rjf08719giru9ho.jpg,cju7bduyq1rjf08719giru9ho.jpg,108,1,0.782599925994873,0.6428452730178833,Medium,Center
+Attention U-Net,cju2nsmwjlzyl0993jl80chvz.jpg,cju2nsmwjlzyl0993jl80chvz.jpg,109,1,0.9220626950263977,0.855395495891571,Small,Center
+Attention U-Net,cju84dsvaklpx098750hp83x4.jpg,cju84dsvaklpx098750hp83x4.jpg,110,1,0.3488471806049347,0.2112749218940735,Large,Center
+Attention U-Net,cju7etr3y2p4t0801cdzjj8ab.jpg,cju7etr3y2p4t0801cdzjj8ab.jpg,111,1,0.8462917804718018,0.7335405349731445,Small,Center
+Attention U-Net,cju0s690hkp960855tjuaqvv0.jpg,cju0s690hkp960855tjuaqvv0.jpg,112,1,0.8570101857185364,0.7497969269752502,Small,Center
+Attention U-Net,cju892fesoq2g0801n0e0jyia.jpg,cju892fesoq2g0801n0e0jyia.jpg,113,1,0.8131703734397888,0.685161828994751,Large,Center
+Attention U-Net,cju84hibuktj80871u519o71q.jpg,cju84hibuktj80871u519o71q.jpg,114,1,0.9673498272895813,0.9367643594741821,Small,Center
+Attention U-Net,cju2z6ez69g4u0801qwt088lw.jpg,cju2z6ez69g4u0801qwt088lw.jpg,115,1,0.47010982036590576,0.3072833716869354,Large,Center
+Attention U-Net,cju5x7iskmad90818frchyfwd.jpg,cju5x7iskmad90818frchyfwd.jpg,116,1,0.6550804972648621,0.48707783222198486,Medium,Peripheral
+Attention U-Net,cju41z76wlgbz0801qdetlvby.jpg,cju41z76wlgbz0801qdetlvby.jpg,117,1,0.9180302023887634,0.8484804630279541,Medium,Center
+Attention U-Net,cju2t16vuucaq0835xcpsivn2.jpg,cju2t16vuucaq0835xcpsivn2.jpg,118,1,0.966347873210907,0.9348869323730469,Small,Peripheral
+Attention U-Net,cju3xwpgviwlx0871rwm15q7v.jpg,cju3xwpgviwlx0871rwm15q7v.jpg,119,1,0.5175813436508179,0.3491465449333191,Small,Center
+Attention U-Net,cjyzufihqquiw0a46jatrbwln.jpg,cjyzufihqquiw0a46jatrbwln.jpg,120,1,0.8046592473983765,0.6731630563735962,Large,Center
+Attention U-Net,cju7bmi1v1pnj0987pa52jjok.jpg,cju7bmi1v1pnj0987pa52jjok.jpg,121,1,0.8686786890029907,0.7678443193435669,Medium,Center
+Attention U-Net,cju772304yw5t0818vbw8kkjf.jpg,cju772304yw5t0818vbw8kkjf.jpg,122,1,0.9342373013496399,0.8765903115272522,Small,Center
+Attention U-Net,cju7d7aut2a2p0818z4uxc6cd.jpg,cju7d7aut2a2p0818z4uxc6cd.jpg,123,1,0.8970229625701904,0.8132743239402771,Small,Center
+Attention U-Net,cju2rlqdnoz9k0993cpjae3x0.jpg,cju2rlqdnoz9k0993cpjae3x0.jpg,124,1,0.879852294921875,0.7854787707328796,Medium,Center
+Attention U-Net,cju5uxjnol2r509871qv2yeia.jpg,cju5uxjnol2r509871qv2yeia.jpg,125,1,0.8200880885124207,0.6950417757034302,Small,Center
+Attention U-Net,cju160wshltz10993i1gmqxbe.jpg,cju160wshltz10993i1gmqxbe.jpg,126,1,0.9188452959060669,0.8498740792274475,Small,Peripheral
+Attention U-Net,cju5yimthmlv80850zhoc90c2.jpg,cju5yimthmlv80850zhoc90c2.jpg,127,1,0.48846152424812317,0.3231552243232727,Small,Center
+Attention U-Net,cju5clr68b48r0755cmuvponm.jpg,cju5clr68b48r0755cmuvponm.jpg,128,1,0.9622877836227417,0.9273165464401245,Medium,Center
+Attention U-Net,cju2txjfzv60w098839dcimys.jpg,cju2txjfzv60w098839dcimys.jpg,129,1,0.9273419380187988,0.8645271062850952,Medium,Center
+Attention U-Net,cju2sxf3iqbpv09937iksn8ep.jpg,cju2sxf3iqbpv09937iksn8ep.jpg,130,1,0.9385818839073181,0.8842715620994568,Large,Center
+Attention U-Net,cju1ewnoh5z030855vpex9uzt.jpg,cju1ewnoh5z030855vpex9uzt.jpg,131,1,0.4994170665740967,0.33281534910202026,Medium,Center
+Attention U-Net,cju16d65tzw9d0799ouslsw25.jpg,cju16d65tzw9d0799ouslsw25.jpg,132,1,0.9385612607002258,0.8842350244522095,Small,Center
+Attention U-Net,cju16jgnyzp970878melv7r25.jpg,cju16jgnyzp970878melv7r25.jpg,133,1,0.7353928685188293,0.581518828868866,Medium,Center
+Attention U-Net,cju3y21quj0ir0818kgjagr15.jpg,cju3y21quj0ir0818kgjagr15.jpg,134,1,0.8379854559898376,0.7211489081382751,Large,Center
+Attention U-Net,cju5xjn5mm78b09871spyqhhr.jpg,cju5xjn5mm78b09871spyqhhr.jpg,135,1,0.9684730768203735,0.938873291015625,Medium,Center
+Attention U-Net,cju1egh885m1l0855ci1lt37c.jpg,cju1egh885m1l0855ci1lt37c.jpg,136,1,0.14089347422122955,0.07578558474779129,Small,Center
+Attention U-Net,cju5ktjwofed70817eg58ef7u.jpg,cju5ktjwofed70817eg58ef7u.jpg,137,1,0.6132481694221497,0.4422191083431244,Medium,Center
+Attention U-Net,cju8axq24r4an0755yhv9d4ly.jpg,cju8axq24r4an0755yhv9d4ly.jpg,138,1,0.9573014378547668,0.9180999398231506,Small,Center
+Attention U-Net,cju7dwe282dc309876rco45ts.jpg,cju7dwe282dc309876rco45ts.jpg,139,1,0.24831804633140564,0.14175978302955627,Large,Center
+Attention U-Net,cju7ajnbo1gvm098749rdouk0.jpg,cju7ajnbo1gvm098749rdouk0.jpg,140,1,0.9818839430809021,0.9644125699996948,Large,Peripheral
+Attention U-Net,cju1fj6axwfp30835ukhuzhw9.jpg,cju1fj6axwfp30835ukhuzhw9.jpg,141,1,0.7141649723052979,0.5554094910621643,Large,Peripheral
+Attention U-Net,cju7dsrtb2f8i085064kwugfk.jpg,cju7dsrtb2f8i085064kwugfk.jpg,142,1,0.966461718082428,0.9351000785827637,Small,Center
+Attention U-Net,cju2i8br1vqtd08784u6vmcjk.jpg,cju2i8br1vqtd08784u6vmcjk.jpg,143,1,0.9522924423217773,0.9089296460151672,Large,Peripheral
+Attention U-Net,cju2t62nq45jl0799odpufwx6.jpg,cju2t62nq45jl0799odpufwx6.jpg,144,1,0.8441146016120911,0.7302753329277039,Large,Center
+Attention U-Net,cju2uzabhs6er0993x3aaf87p.jpg,cju2uzabhs6er0993x3aaf87p.jpg,145,1,0.5933519601821899,0.4218197762966156,Medium,Center
+Attention U-Net,cju2z1nxlzaj40835wj81s1iy.jpg,cju2z1nxlzaj40835wj81s1iy.jpg,146,1,0.8217845559120178,0.6974823474884033,Large,Center
+Attention U-Net,cju7dxffn2eam0817qxosfwch.jpg,cju7dxffn2eam0817qxosfwch.jpg,147,1,0.9284246563911438,0.8664109706878662,Medium,Peripheral
+Attention U-Net,cju15ptjtppz40988odsm9azx.jpg,cju15ptjtppz40988odsm9azx.jpg,148,1,0.7959959506988525,0.6611239910125732,Small,Center
+Attention U-Net,cju1gghyjwxt80835vx0wgxw0.jpg,cju1gghyjwxt80835vx0wgxw0.jpg,149,1,0.8718366026878357,0.7727928161621094,Large,Center
+Attention U-Net,cju6yywx1whbb0871ksgfgf9f.jpg,cju6yywx1whbb0871ksgfgf9f.jpg,150,1,0.8347718119621277,0.716401994228363,Small,Center

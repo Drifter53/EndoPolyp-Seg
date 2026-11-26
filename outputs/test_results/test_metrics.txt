@@ -1,0 +1,5 @@
+Test Loss: 0.413240
+Test Dice: 0.804851
+Test IoU: 0.718354
+Test Samples: 150
+Visualizations: 10
