@@ -98,7 +98,7 @@ ResNet34 首次训练使用 `ResNet34_Weights.DEFAULT`；推理、测试和 benc
 | ResNet34-U-Net  |  0.253274 | **0.880280** | **0.812312** |
 | Attention U-Net |  0.406886 |     0.816444 |     0.726136 |
 
-当前对照中 ResNet34-U-Net 的测试精度最高。其编码器预训练方式、参数量和输入标准化与 Original U-Net 不同，因此这里展示的是三套实际方案的结果，不将全部差异归因于单一结构改动。逐图结果与可视化位于 [outputs\_comparison](outputs_comparison)。
+在本项目的 150 张测试图像上，ResNet34-U-Net 的平均 Dice 和 IoU 均为三种模型中最高。逐图评价结果和预测可视化见 [outputs_comparison](outputs_comparison)。
 
 ### 5.2 Benchmark 公共条件
 
