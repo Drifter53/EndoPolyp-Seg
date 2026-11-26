@@ -1,6 +1,6 @@
 # EndoPolyp-Seg
 
-我用 Kvasir-SEG 做了一个结肠镜息肉分割项目。给模型一张图，它会标出息肉所在的像素。我先训练了一个基础 U-Net，又试了 ResNet34 编码器和带注意力的跳跃连接，最后用 Gradio 把三个模型放到同一个页面里对照。
+我用 Kvasir-SEG 库做了一个结肠镜息肉分割项目。给模型一张图，它会标出息肉所在的像素。我先训练了一个基础 U-Net，又试了 ResNet34 编码器和带注意力的跳跃连接，最后用 Gradio 把三个模型放到同一个页面里对照。
 
 ![一张测试图的原图、人工标注和三种模型的预测掩码](outputs_comparison/visualizations/0002_cju8doa16u5gh0818w1ywda3q.jpg)
 
